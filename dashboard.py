@@ -12,9 +12,9 @@ CENTRAL_TZ = timezone("US/Central")
 
 # Page configuration (Set title and icon)
 st.set_page_config(
-    page_title="NBA EV Projections App",  # Title of the tab/window
-    page_icon="🏀",  # Use an emoji or a file path to your own icon
-    layout="wide"  # Options: "centered" or "wide"
+    page_title="NBA EV Projections App",
+    page_icon="🏀",  # Emoji or custom icon file path
+    layout="wide"
 )
 
 # Calculate the hash of the CSV data
@@ -29,9 +29,18 @@ def load_data():
 
     try:
         data = pd.read_csv("nba_player_best_ev_projections.csv")
+        
+        # Ensure Confidence is numeric
+        if 'Confidence' in data.columns:
+            data['Confidence'] = (
+                data['Confidence']
+                .str.rstrip('%')  # Remove %
+                .astype(float)    # Convert to float
+            )
+
         current_hash = calculate_data_hash(data)
 
-        # Check if the hash has changed
+        # Update "Last Updated" if the data hash has changed
         if LAST_UPDATED["hash"] != current_hash:
             LAST_UPDATED["hash"] = current_hash
             now_central = datetime.now(CENTRAL_TZ).strftime("%Y-%m-%d %I:%M:%S %p")
@@ -80,17 +89,20 @@ def run_streamlit_app():
         (data['Player Name'].str.contains(player_filter, case=False, na=False)) &
         (data['Metric'].isin(metric_filter)) &
         (data['Bookmaker'].isin(sportsbook_filter)) &
-        (data['Confidence'].str.rstrip('%').astype(float).between(*confidence_filter))
+        (data['Confidence'].between(*confidence_filter))
     ]
+
+    # Sort data by Confidence in descending order
+    sorted_data = filtered_data.sort_values(by="Confidence", ascending=False)
 
     # Display filtered and sortable data
     st.subheader("Filtered Results")
-    st.dataframe(filtered_data, use_container_width=True)
+    st.dataframe(sorted_data, use_container_width=True)
 
     # Option to download filtered data
     st.download_button(
         label="Download Filtered Data as CSV",
-        data=filtered_data.to_csv(index=False),
+        data=sorted_data.to_csv(index=False),
         file_name="filtered_nba_projections.csv",
         mime="text/csv"
     )
