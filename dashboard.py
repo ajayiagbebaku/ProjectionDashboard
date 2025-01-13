@@ -1,5 +1,3 @@
-# nba_streamlit_app.py
-
 import streamlit as st
 import pandas as pd
 import hashlib
@@ -12,9 +10,15 @@ LAST_UPDATED = {"hash": None, "timestamp": None}
 # Central Time Zone
 CENTRAL_TZ = timezone("US/Central")
 
+# Page configuration (Set title and icon)
+st.set_page_config(
+    page_title="NBA EV Projections App",  # Title of the tab/window
+    page_icon="🏀",  # Use an emoji or a file path to your own icon
+    layout="wide"  # Options: "centered" or "wide"
+)
+
 # Calculate the hash of the CSV data
 def calculate_data_hash(data: pd.DataFrame) -> str:
-    # Convert data to a string and calculate its hash
     data_string = data.to_csv(index=False)
     return hashlib.md5(data_string.encode()).hexdigest()
 
@@ -30,7 +34,6 @@ def load_data():
         # Check if the hash has changed
         if LAST_UPDATED["hash"] != current_hash:
             LAST_UPDATED["hash"] = current_hash
-            # Format the time in Central Time Zone, 12-hour format with AM/PM
             now_central = datetime.now(CENTRAL_TZ).strftime("%Y-%m-%d %I:%M:%S %p")
             LAST_UPDATED["timestamp"] = now_central
 
