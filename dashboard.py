@@ -34,7 +34,7 @@ def load_data():
         if 'Confidence' in data.columns:
             data['Confidence'] = (
                 data['Confidence']
-                .str.rstrip('%')  # Remove %
+                .str.rstrip('%')  # Remove % if present
                 .astype(float)    # Convert to float
             )
 
@@ -106,6 +106,11 @@ def run_streamlit_app():
         file_name="filtered_nba_projections.csv",
         mime="text/csv"
     )
+
+    # Highlight Top Prop Bets for Today
+    st.subheader("Top Prop Bets for Today")
+    top_bets = sorted_data.head(10)  # Get top 10 rows from sorted data
+    st.dataframe(top_bets, use_container_width=True)  # Display all columns in a table
 
 if __name__ == "__main__":
     run_streamlit_app()
