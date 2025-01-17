@@ -1,57 +1,396 @@
 Player Name,Metric,Projected Value,Best Bet,Bookmaker,Odds,Point Line,Difference,Projection Aligns,Confidence
-Kris Dunn,Points Rebounds Assists,8.6,Under,Caesars,-106,12.5,3.9000000000000004,Yes,45.3%
-Scoot Henderson,Points Rebounds Assists,20.700000000000003,Under,BetMGM,-105,24.5,3.799999999999997,Yes,18.4%
-Dalano Banton,Points Rebounds Assists,9.8,Under,BetOnline.ag,-105,13.5,3.6999999999999993,Yes,37.8%
-Kris Dunn,Points,3.7,Under,BetMGM,-105,6.5,2.8,Yes,75.7%
-Dalano Banton,Points,6.4,Under,Bovada,115,8.5,2.0999999999999996,Yes,32.8%
-Kris Murray,Points Rebounds Assists,10.1,Under,Caesars,-109,11.5,1.4000000000000004,Yes,13.9%
-James Harden,Points,20.3,Under,BetRivers,102,21.5,1.1999999999999993,Yes,5.9%
-Nicolas Batum,Points Rebounds Assists,6.4,Under,Caesars,100,7.5,1.0999999999999996,Yes,17.2%
-Derrick Jones,Points,9.5,Under,BetOnline.ag,-114,10.5,1.0,Yes,10.5%
-Dalano Banton,Rebounds,1.5,Under,BetOnline.ag,-125,2.5,1.0,Yes,66.7%
-James Harden,Rebounds,5.4,Over,BetMGM,-150,4.5,0.9000000000000004,Yes,16.7%
-Scoot Henderson,Assists,4.6,Under,FanDuel,122,5.5,0.9000000000000004,Yes,19.6%
-Ivica Zubac,Rebounds,13.4,Over,Caesars,-117,12.5,0.9000000000000004,Yes,6.7%
-Shaedon Sharpe,Assists,3.4,Over,FanDuel,-120,2.5,0.8999999999999999,Yes,26.5%
-Nicolas Batum,Points,2.6,Under,Caesars,-133,3.5,0.8999999999999999,Yes,34.6%
-James Harden,Points Rebounds Assists,34.6,Under,FanDuel,-104,35.5,0.8999999999999986,Yes,2.6%
-Ivica Zubac,Points Rebounds Assists,31.3,Over,Caesars,100,30.5,0.8000000000000007,Yes,2.6%
-Derrick Jones,Points Rebounds Assists,12.7,Under,BetMGM,110,13.5,0.8000000000000007,Yes,6.3%
-Norman Powell,Assists,1.7,Under,Caesars,-154,2.5,0.8,Yes,47.1%
-Scoot Henderson,Rebounds,2.7,Under,FanDuel,-115,3.5,0.7999999999999998,Yes,29.6%
-Kris Murray,Rebounds,2.7,Under,FanDuel,106,3.5,0.7999999999999998,Yes,29.6%
-Shaedon Sharpe,Points Rebounds Assists,27.299999999999997,Over,DraftKings,-120,26.5,0.7999999999999972,Yes,2.9%
-Kris Murray,Points,5.8,Under,Caesars,-121,6.5,0.7000000000000002,Yes,12.1%
-Ivica Zubac,Points,15.2,Over,DraftKings,-125,14.5,0.6999999999999993,Yes,4.6%
-Amir Coffey,Points,10.2,Over,BetRivers,-155,9.5,0.6999999999999993,Yes,6.9%
-Norman Powell,Points,24.1,Over,FanDuel,-124,23.5,0.6000000000000014,Yes,2.5%
-Amir Coffey,Points Rebounds Assists,13.899999999999999,Under,BetOnline.ag,-119,14.5,0.6000000000000014,Yes,4.3%
-Toumani Camara,Assists,2.1,Over,BetMGM,-135,1.5,0.6000000000000001,Yes,28.6%
-Dalano Banton,Assists,1.9,Under,Caesars,-166,2.5,0.6000000000000001,Yes,31.6%
-Deandre Ayton,Rebounds,10.1,Over,DraftKings,-130,9.5,0.5999999999999996,Yes,5.9%
-Anfernee Simons,Assists,5.0,Over,DraftKings,-154,4.5,0.5,Yes,10.0%
-Deandre Ayton,Points Rebounds Assists,23.0,Under,DraftKings,-110,23.5,0.5,Yes,2.2%
-James Harden,Assists,8.9,Over,FanDuel,118,8.5,0.40000000000000036,Yes,4.5%
-Shaedon Sharpe,Rebounds,4.1,Under,Caesars,-103,4.5,0.40000000000000036,Yes,9.8%
-Toumani Camara,Rebounds,5.1,Under,FanDuel,116,5.5,0.40000000000000036,Yes,7.8%
-Amir Coffey,Assists,1.1,Under,BetMGM,-200,1.5,0.3999999999999999,Yes,36.4%
-Nicolas Batum,Assists,1.1,Under,Caesars,-184,1.5,0.3999999999999999,Yes,36.4%
-Shaedon Sharpe,Points,19.8,Over,DraftKings,-115,19.5,0.3000000000000007,Yes,1.5%
-Toumani Camara,Points Rebounds Assists,18.8,Over,DraftKings,-115,18.5,0.3000000000000007,Yes,1.6%
-Norman Powell,Rebounds,3.8,Over,BetMGM,-110,3.5,0.2999999999999998,Yes,7.9%
-Anfernee Simons,Rebounds,2.7,Over,BetRivers,-165,2.5,0.20000000000000018,Yes,7.4%
-Ivica Zubac,Assists,2.7,Over,Caesars,100,2.5,0.20000000000000018,Yes,7.4%
-Nicolas Batum,Rebounds,2.7,Over,DraftKings,-145,2.5,0.20000000000000018,Yes,7.4%
-Anfernee Simons,Points,20.7,Over,BetOnline.ag,-108,20.5,0.1999999999999993,Yes,1.0%
-Anfernee Simons,Points Rebounds Assists,28.4,Under,FanDuel,-104,28.5,0.10000000000000142,Yes,0.4%
-Norman Powell,Points Rebounds Assists,29.6,Over,BetOnline.ag,-123,29.5,0.10000000000000142,Yes,0.3%
-Kris Dunn,Assists,2.4,Under,DraftKings,114,2.5,0.10000000000000009,Yes,4.2%
-Amir Coffey,Rebounds,2.6,Over,FanDuel,-115,2.5,0.10000000000000009,Yes,3.8%
-Derrick Jones,Rebounds,2.6,Over,BetMGM,-225,2.5,0.10000000000000009,Yes,3.8%
-Kris Murray,Assists,1.6,Over,BetMGM,110,1.5,0.10000000000000009,Yes,6.3%
-Derrick Jones,Assists,0.6,Over,Caesars,-199,0.5,0.09999999999999998,Yes,16.7%
-Scoot Henderson,Points,13.4,Under,BetRivers,110,13.5,0.09999999999999964,Yes,0.7%
-Deandre Ayton,Points,11.4,Under,BetRivers,114,11.5,0.09999999999999964,Yes,0.9%
-Toumani Camara,Points,11.6,Over,Caesars,104,11.5,0.09999999999999964,Yes,0.9%
-Kris Dunn,Rebounds,2.5,N/A,N/A,N/A,N/A,N/A,No,N/A
-Deandre Ayton,Assists,1.5,N/A,N/A,N/A,N/A,N/A,No,N/A
+Paolo Banchero,Points Rebounds Assists,42.3,Over,FanDuel,-106,35.5,6.799999999999997,Yes,16.1%
+Daniel Gafford,Points Rebounds Assists,17.900000000000002,Under,Caesars,-113,23.5,5.599999999999998,Yes,31.3%
+Cody Williams,Points Rebounds Assists,8.7,Under,BetMGM,-125,13.5,4.800000000000001,Yes,55.2%
+Victor Wembanyama,Points Rebounds Assists,36.8,Under,DraftKings,-110,41.5,4.700000000000003,Yes,12.8%
+Drew Eubanks,Points Rebounds Assists,13.8,Under,Bovada,105,18.5,4.699999999999999,Yes,34.1%
+Jose Alvarado,Points Rebounds Assists,15.100000000000001,Over,BetOnline.ag,-123,10.5,4.600000000000001,Yes,30.5%
+Jaylin Williams,Points Rebounds Assists,11.6,Under,BetMGM,-130,15.5,3.9000000000000004,Yes,33.6%
+Cole Anthony,Points Rebounds Assists,20.7,Under,FanDuel,-104,24.5,3.8000000000000007,Yes,18.4%
+Nikola Jokic,Points Rebounds Assists,54.3,Over,DraftKings,-110,50.5,3.799999999999997,Yes,7.0%
+Chris Boucher,Points Rebounds Assists,18.1,Over,BetMGM,-105,14.5,3.6000000000000014,Yes,19.9%
+Stephon Castle,Points Rebounds Assists,18.9,Under,FanDuel,-104,22.5,3.6000000000000014,Yes,19.0%
+Javonte Green,Points Rebounds Assists,13.0,Over,BetMGM,100,9.5,3.5,Yes,26.9%
+Jordan Hawkins,Points Rebounds Assists,13.799999999999999,Over,BetOnline.ag,-108,10.5,3.299999999999999,Yes,23.9%
+Jordan Hawkins,Points,10.7,Over,BetOnline.ag,-114,7.5,3.1999999999999993,Yes,29.9%
+Victor Wembanyama,Points,21.3,Under,Bovada,125,24.5,3.1999999999999993,Yes,15.0%
+Trey Murphy III,Points Rebounds Assists,32.6,Over,BetMGM,-105,29.5,3.1000000000000014,Yes,9.5%
+Daniel Gafford,Rebounds,5.4,Under,BetRivers,-124,8.5,3.0999999999999996,Yes,57.4%
+Paolo Banchero,Points,29.5,Over,BetRivers,120,26.5,3.0,Yes,10.2%
+Wendell Carter Jr,Points Rebounds Assists,16.7,Under,BetOnline.ag,-112,19.5,2.8000000000000007,Yes,16.8%
+Jose Alvarado,Points,9.3,Over,BetOnline.ag,-120,6.5,2.8000000000000007,Yes,30.1%
+Devin Vassell,Points Rebounds Assists,24.7,Under,BetMGM,-105,27.5,2.8000000000000007,Yes,11.3%
+Cameron Johnson,Points Rebounds Assists,27.3,Over,DraftKings,-130,24.5,2.8000000000000007,Yes,10.3%
+Ja Morant,Points Rebounds Assists,32.7,Under,Bovada,-105,35.5,2.799999999999997,Yes,8.6%
+Collin Sexton,Points Rebounds Assists,26.799999999999997,Under,BetRivers,-106,29.5,2.700000000000003,Yes,10.1%
+Javonte Green,Points,7.2,Over,BetMGM,-140,4.5,2.7,Yes,37.5%
+Chris Boucher,Points,12.2,Over,Bovada,-105,9.5,2.6999999999999993,Yes,22.1%
+LaMelo Ball,Points Rebounds Assists,41.9,Under,DraftKings,-110,44.5,2.6000000000000014,Yes,6.2%
+Al Horford,Points,8.1,Over,Caesars,-142,5.5,2.5999999999999996,Yes,32.1%
+Drew Eubanks,Points,5.9,Under,BetRivers,107,8.5,2.5999999999999996,Yes,44.1%
+Al Horford,Points Rebounds Assists,15.0,Over,BetMGM,-120,12.5,2.5,Yes,16.7%
+Kristaps Porzingis,Points Rebounds Assists,29.700000000000003,Over,BetOnline.ag,-108,27.5,2.200000000000003,Yes,7.4%
+Karl-Anthony Towns,Points Rebounds Assists,44.7,Over,BetMGM,105,42.5,2.200000000000003,Yes,4.9%
+Damian Lillard,Points Rebounds Assists,36.7,Over,BetOnline.ag,-110,34.5,2.200000000000003,Yes,6.0%
+Haywood Highsmith,Points Rebounds Assists,13.7,Over,BetMGM,-110,11.5,2.1999999999999993,Yes,16.1%
+Davion Mitchell,Points Rebounds Assists,10.3,Under,DraftKings,-105,12.5,2.1999999999999993,Yes,21.4%
+Kristaps Porzingis,Points,19.6,Over,BetRivers,-106,17.5,2.1000000000000014,Yes,10.7%
+Max Christie,Points Rebounds Assists,14.4,Under,BetOnline.ag,-118,16.5,2.0999999999999996,Yes,14.6%
+Josh Giddey,Points,10.5,Under,Bovada,-110,12.5,2.0,Yes,19.0%
+Jimmy Butler,Points Rebounds Assists,25.5,Over,BetRivers,-106,23.5,2.0,Yes,7.8%
+Davion Mitchell,Points,4.5,Under,BetMGM,-110,6.5,2.0,Yes,44.4%
+Keyonte George,Points Rebounds Assists,25.5,Under,FanDuel,-102,27.5,2.0,Yes,7.8%
+Gradey Dick,Points Rebounds Assists,18.400000000000002,Over,BetMGM,-115,16.5,1.9000000000000021,Yes,10.3%
+Jrue Holiday,Points Rebounds Assists,19.4,Over,DraftKings,-105,17.5,1.8999999999999986,Yes,9.8%
+Nikola Jokic,Points,30.4,Over,BetRivers,107,28.5,1.8999999999999986,Yes,6.2%
+Dejounte Murray,Points,19.4,Over,BetRivers,110,17.5,1.8999999999999986,Yes,9.8%
+Dejounte Murray,Points Rebounds Assists,33.4,Over,FanDuel,100,31.5,1.8999999999999986,Yes,5.7%
+Naji Marshall,Points Rebounds Assists,17.6,Under,DraftKings,-110,19.5,1.8999999999999986,Yes,10.8%
+Caleb Houstan,Points Rebounds Assists,6.7,Under,BetMGM,-110,8.5,1.7999999999999998,Yes,26.9%
+Jaren Jackson Jr,Points Rebounds Assists,33.2,Over,FanDuel,-118,31.5,1.7000000000000028,Yes,5.1%
+Jaylin Williams,Points,4.8,Under,FanDuel,-104,6.5,1.7000000000000002,Yes,35.4%
+Jakob Poeltl,Points Rebounds Assists,27.099999999999998,Over,Bovada,105,25.5,1.5999999999999979,Yes,5.9%
+Paolo Banchero,Rebounds,8.0,Over,BetOnline.ag,-123,6.5,1.5,Yes,18.8%
+Jonathan Isaac,Points Rebounds Assists,15.0,Over,Caesars,-109,13.5,1.5,Yes,10.0%
+Josh Green,Points Rebounds Assists,10.0,Under,Caesars,-103,11.5,1.5,Yes,15.0%
+Trey Murphy III,Rebounds,6.0,Over,DraftKings,-145,4.5,1.5,Yes,25.0%
+Cody Williams,Rebounds,2.0,Under,BetMGM,-120,3.5,1.5,Yes,75.0%
+Cameron Johnson,Points,21.0,Over,BetRivers,100,19.5,1.5,Yes,7.1%
+Jalen Brunson,Points Rebounds Assists,38.900000000000006,Over,BetRivers,-105,37.5,1.4000000000000057,Yes,3.6%
+Austin Reaves,Points Rebounds Assists,28.099999999999998,Under,FanDuel,-106,29.5,1.4000000000000021,Yes,5.0%
+Wendell Carter Jr,Rebounds,6.1,Under,Bovada,-105,7.5,1.4000000000000004,Yes,23.0%
+Patrick Williams,Points Rebounds Assists,13.1,Under,BetMGM,-110,14.5,1.4000000000000004,Yes,10.7%
+Gary Trent Jr,Points Rebounds Assists,12.9,Over,BetOnline.ag,-118,11.5,1.4000000000000004,Yes,10.9%
+Dejounte Murray,Rebounds,6.9,Over,DraftKings,-130,5.5,1.4000000000000004,Yes,20.3%
+Stephon Castle,Points,13.1,Under,BetRivers,104,14.5,1.4000000000000004,Yes,10.7%
+Stephon Castle,Rebounds,2.1,Under,DraftKings,-154,3.5,1.4,Yes,66.7%
+Mike Conley,Points Rebounds Assists,13.100000000000001,Under,Caesars,-113,14.5,1.3999999999999986,Yes,10.7%
+Klay Thompson,Points Rebounds Assists,18.1,Under,DraftKings,-110,19.5,1.3999999999999986,Yes,7.7%
+Mikal Bridges,Points Rebounds Assists,21.2,Under,DraftKings,-105,22.5,1.3000000000000007,Yes,6.1%
+Jimmy Butler,Rebounds,5.8,Over,FanDuel,-108,4.5,1.2999999999999998,Yes,22.4%
+Drew Eubanks,Rebounds,6.2,Under,Bovada,120,7.5,1.2999999999999998,Yes,21.0%
+Tyler Herro,Points Rebounds Assists,36.7,Over,FanDuel,-104,35.5,1.2000000000000028,Yes,3.3%
+Cody Williams,Points,5.3,Under,BetRivers,108,6.5,1.2000000000000002,Yes,22.6%
+Payton Pritchard,Points,11.7,Over,BetMGM,-110,10.5,1.1999999999999993,Yes,10.3%
+Jonathan Isaac,Points,8.7,Over,Caesars,100,7.5,1.1999999999999993,Yes,13.8%
+Karl-Anthony Towns,Points,27.7,Over,Caesars,116,26.5,1.1999999999999993,Yes,4.3%
+Nikola Jokic,Rebounds,13.7,Over,BetMGM,-115,12.5,1.1999999999999993,Yes,8.8%
+Julian Champagnie,Points Rebounds Assists,14.7,Over,BetMGM,-115,13.5,1.1999999999999993,Yes,8.2%
+Damian Lillard,Points,25.6,Over,BetRivers,100,24.5,1.1000000000000014,Yes,4.3%
+Devin Vassell,Points,16.4,Under,BetRivers,123,17.5,1.1000000000000014,Yes,6.7%
+Anthony Black,Assists,3.6,Over,BetMGM,-165,2.5,1.1,Yes,30.6%
+Naji Marshall,Rebounds,3.4,Under,BetMGM,115,4.5,1.1,Yes,32.4%
+LaMelo Ball,Assists,7.4,Under,BetMGM,-110,8.5,1.0999999999999996,Yes,14.9%
+Josh Green,Points,5.4,Under,BetRivers,-103,6.5,1.0999999999999996,Yes,20.4%
+Javonte Green,Rebounds,4.6,Over,BetMGM,115,3.5,1.0999999999999996,Yes,23.9%
+Daniel Gafford,Points,11.4,Under,BetRivers,110,12.5,1.0999999999999996,Yes,9.6%
+Jrue Holiday,Points,10.5,Over,DraftKings,-110,9.5,1.0,Yes,9.5%
+Jaylen Brown,Points Rebounds Assists,31.5,Under,BetMGM,-130,32.5,1.0,Yes,3.2%
+Kristaps Porzingis,Rebounds,8.5,Over,FanDuel,-106,7.5,1.0,Yes,11.8%
+Al Horford,Rebounds,5.5,Over,Caesars,-137,4.5,1.0,Yes,18.2%
+Julius Randle,Rebounds,7.5,Over,BetOnline.ag,-132,6.5,1.0,Yes,13.3%
+Jaden McDaniels,Points,10.5,Over,FanDuel,-125,9.5,1.0,Yes,9.5%
+Coby White,Points Rebounds Assists,26.5,Over,BetOnline.ag,-116,25.5,1.0,Yes,3.8%
+Miles Bridges,Points Rebounds Assists,30.5,Under,BetMGM,-115,31.5,1.0,Yes,3.3%
+Josh Green,Rebounds,3.5,Over,BetRivers,-165,2.5,1.0,Yes,28.6%
+Bam Adebayo,Points,15.5,Over,BetRivers,-157,14.5,1.0,Yes,6.5%
+Terry Rozier,Points,10.5,Under,DraftKings,100,11.5,1.0,Yes,9.5%
+Jimmy Butler,Assists,4.5,Over,DraftKings,-135,3.5,1.0,Yes,22.2%
+Khris Middleton,Assists,4.5,Over,BetRivers,-162,3.5,1.0,Yes,22.2%
+Brook Lopez,Rebounds,4.5,Under,BetOnline.ag,-154,5.5,1.0,Yes,22.2%
+Harrison Barnes,Rebounds,3.5,Under,Caesars,-142,4.5,1.0,Yes,28.6%
+Rui Hachimura,Points,12.5,Over,FanDuel,-108,11.5,1.0,Yes,8.0%
+Jayson Tatum,Points Rebounds Assists,40.400000000000006,Over,Caesars,-113,39.5,0.9000000000000057,Yes,2.2%
+Julius Randle,Points Rebounds Assists,30.599999999999998,Under,Bovada,-110,31.5,0.9000000000000021,Yes,2.9%
+Wendell Carter Jr,Points,8.6,Under,BetOnline.ag,110,9.5,0.9000000000000004,Yes,10.5%
+Kentavious Caldwell-Pope,Points Rebounds Assists,12.6,Under,Bovada,100,13.5,0.9000000000000004,Yes,7.1%
+Josh Hart,Rebounds,11.4,Over,Bovada,120,10.5,0.9000000000000004,Yes,7.9%
+Mikal Bridges,Points,15.6,Under,BetRivers,120,16.5,0.9000000000000004,Yes,5.8%
+Bam Adebayo,Assists,4.4,Over,Bovada,-130,3.5,0.9000000000000004,Yes,20.5%
+Damian Lillard,Rebounds,4.4,Over,FanDuel,-154,3.5,0.9000000000000004,Yes,20.5%
+Giannis Antetokounmpo,Rebounds,12.4,Over,DraftKings,-135,11.5,0.9000000000000004,Yes,7.3%
+Luguentz Dort,Points,10.4,Over,BetRivers,-165,9.5,0.9000000000000004,Yes,8.7%
+Keldon Johnson,Rebounds,5.4,Over,Caesars,-160,4.5,0.9000000000000004,Yes,16.7%
+LeBron James,Rebounds,7.4,Over,BetMGM,-155,6.5,0.9000000000000004,Yes,12.2%
+Mark Williams,Points,16.4,Over,BetRivers,-141,15.5,0.8999999999999986,Yes,5.5%
+Desmond Bane,Points Rebounds Assists,28.6,Under,BetMGM,-105,29.5,0.8999999999999986,Yes,3.1%
+Keldon Johnson,Points Rebounds Assists,20.4,Over,Caesars,-125,19.5,0.8999999999999986,Yes,4.4%
+Rui Hachimura,Points Rebounds Assists,18.4,Over,Bovada,-120,17.5,0.8999999999999986,Yes,4.9%
+Kyrie Irving,Points Rebounds Assists,33.300000000000004,Over,DraftKings,-110,32.5,0.8000000000000043,Yes,2.4%
+Jayson Tatum,Points,26.3,Over,Bovada,100,25.5,0.8000000000000007,Yes,3.0%
+Josh Hart,Points Rebounds Assists,31.3,Over,Caesars,-103,30.5,0.8000000000000007,Yes,2.6%
+Jalen Brunson,Points,28.3,Over,BetRivers,114,27.5,0.8000000000000007,Yes,2.8%
+Naz Reid,Points Rebounds Assists,21.3,Over,BetOnline.ag,-116,20.5,0.8000000000000007,Yes,3.8%
+LaMelo Ball,Points,28.7,Under,BetRivers,108,29.5,0.8000000000000007,Yes,2.8%
+Bobby Portis,Points,11.3,Over,Bovada,-135,10.5,0.8000000000000007,Yes,7.1%
+Trey Murphy III,Points,23.3,Over,BetRivers,115,22.5,0.8000000000000007,Yes,3.4%
+Keyonte George,Points,16.7,Under,BetRivers,110,17.5,0.8000000000000007,Yes,4.8%
+Naji Marshall,Points,10.7,Under,BetRivers,-109,11.5,0.8000000000000007,Yes,7.5%
+Max Christie,Points,10.3,Over,BetRivers,-159,9.5,0.8000000000000007,Yes,7.8%
+Cole Anthony,Rebounds,3.7,Under,DraftKings,-110,4.5,0.7999999999999998,Yes,21.6%
+Jrue Holiday,Assists,4.3,Over,FanDuel,-113,3.5,0.7999999999999998,Yes,18.6%
+Payton Pritchard,Rebounds,2.7,Under,Caesars,-133,3.5,0.7999999999999998,Yes,29.6%
+Caleb Houstan,Points,4.7,Under,Caesars,100,5.5,0.7999999999999998,Yes,17.0%
+Jaden McDaniels,Rebounds,5.3,Over,FanDuel,-130,4.5,0.7999999999999998,Yes,15.1%
+Mike Conley,Points,6.7,Under,Caesars,-109,7.5,0.7999999999999998,Yes,11.9%
+Patrick Williams,Points,7.7,Under,BetMGM,100,8.5,0.7999999999999998,Yes,10.4%
+Tyler Herro,Rebounds,6.3,Over,Bovada,130,5.5,0.7999999999999998,Yes,12.7%
+Scottie Barnes,Assists,6.3,Over,BetRivers,-155,5.5,0.7999999999999998,Yes,12.7%
+Chris Boucher,Rebounds,5.3,Over,BetMGM,-110,4.5,0.7999999999999998,Yes,15.1%
+Trey Murphy III,Assists,3.3,Over,DraftKings,-154,2.5,0.7999999999999998,Yes,24.2%
+Kyrie Irving,Assists,3.7,Under,DraftKings,105,4.5,0.7999999999999998,Yes,21.6%
+Shai Gilgeous-Alexander,Assists,5.7,Under,BetOnline.ag,-123,6.5,0.7999999999999998,Yes,14.0%
+Luguentz Dort,Rebounds,3.7,Under,BetOnline.ag,-118,4.5,0.7999999999999998,Yes,21.6%
+Jaylin Williams,Rebounds,4.7,Under,BetRivers,-103,5.5,0.7999999999999998,Yes,17.0%
+Stephon Castle,Assists,3.7,Under,DraftKings,-120,4.5,0.7999999999999998,Yes,21.6%
+Desmond Bane,Rebounds,4.7,Under,BetOnline.ag,-141,5.5,0.7999999999999998,Yes,17.0%
+Zach Edey,Points,7.3,Over,BetMGM,-115,6.5,0.7999999999999998,Yes,11.0%
+Max Christie,Rebounds,2.7,Under,BetOnline.ag,-125,3.5,0.7999999999999998,Yes,29.6%
+Harrison Barnes,Points Rebounds Assists,18.299999999999997,Over,Bovada,-120,17.5,0.7999999999999972,Yes,4.4%
+LeBron James,Points Rebounds Assists,38.7,Under,DraftKings,-110,39.5,0.7999999999999972,Yes,2.1%
+Anthony Edwards,Points Rebounds Assists,37.2,Over,BetMGM,-115,36.5,0.7000000000000028,Yes,1.9%
+Rudy Gobert,Points Rebounds Assists,22.200000000000003,Over,DraftKings,-115,21.5,0.7000000000000028,Yes,3.2%
+Giannis Antetokounmpo,Points Rebounds Assists,49.2,Over,BetRivers,-107,48.5,0.7000000000000028,Yes,1.4%
+Nickeil Alexander-Walker,Points Rebounds Assists,12.799999999999999,Under,Caesars,-121,13.5,0.7000000000000011,Yes,5.5%
+Cole Anthony,Assists,3.8,Under,BetRivers,110,4.5,0.7000000000000002,Yes,18.4%
+Mike Conley,Assists,3.8,Under,BetMGM,-165,4.5,0.7000000000000002,Yes,18.4%
+Nikola Vucevic,Assists,3.2,Over,BetRivers,-152,2.5,0.7000000000000002,Yes,21.9%
+Mark Williams,Assists,2.2,Over,BetMGM,-155,1.5,0.7000000000000002,Yes,31.8%
+Tyler Herro,Assists,4.8,Under,BetOnline.ag,-120,5.5,0.7000000000000002,Yes,14.6%
+Davion Mitchell,Assists,3.8,Under,DraftKings,-130,4.5,0.7000000000000002,Yes,18.4%
+Taurean Prince,Points,6.2,Over,BetRivers,-121,5.5,0.7000000000000002,Yes,11.3%
+Taurean Prince,Rebounds,3.2,Over,DraftKings,-154,2.5,0.7000000000000002,Yes,21.9%
+Zion Williamson,Rebounds,7.2,Over,FanDuel,102,6.5,0.7000000000000002,Yes,9.7%
+Shai Gilgeous-Alexander,Rebounds,4.8,Under,DraftKings,-125,5.5,0.7000000000000002,Yes,14.6%
+Ja Morant,Rebounds,3.8,Under,FanDuel,124,4.5,0.7000000000000002,Yes,18.4%
+Ja Morant,Assists,6.8,Under,BetOnline.ag,-132,7.5,0.7000000000000002,Yes,10.3%
+Javonte Green,Assists,1.2,Over,BetMGM,-140,0.5,0.7,Yes,58.3%
+Tristan da Silva,Points Rebounds Assists,13.8,Under,BetMGM,-110,14.5,0.6999999999999993,Yes,5.1%
+Jaden McDaniels,Points Rebounds Assists,17.2,Over,DraftKings,-105,16.5,0.6999999999999993,Yes,4.1%
+Nikola Jokic,Assists,10.2,Over,BetMGM,110,9.5,0.6999999999999993,Yes,6.9%
+Jimmy Butler,Points,15.2,Over,BetRivers,-104,14.5,0.6999999999999993,Yes,4.6%
+Gradey Dick,Points,13.2,Over,BetMGM,-115,12.5,0.6999999999999993,Yes,5.3%
+Scottie Barnes,Points Rebounds Assists,34.1,Over,FanDuel,-122,33.5,0.6000000000000014,Yes,1.8%
+Collin Sexton,Points,19.9,Under,BetRivers,110,20.5,0.6000000000000014,Yes,3.0%
+Kyrie Irving,Points,25.1,Over,BetRivers,120,24.5,0.6000000000000014,Yes,2.4%
+Desmond Bane,Points,19.1,Over,BetRivers,-139,18.5,0.6000000000000014,Yes,3.1%
+Keon Johnson,Points Rebounds Assists,15.899999999999999,Under,Caesars,-109,16.5,0.6000000000000014,Yes,3.8%
+Karl-Anthony Towns,Assists,3.1,Over,FanDuel,-162,2.5,0.6000000000000001,Yes,19.4%
+Rudy Gobert,Assists,2.1,Over,BetMGM,125,1.5,0.6000000000000001,Yes,28.6%
+Gradey Dick,Rebounds,3.1,Over,BetMGM,-120,2.5,0.6000000000000001,Yes,19.4%
+Gradey Dick,Assists,2.1,Over,BetMGM,-120,1.5,0.6000000000000001,Yes,28.6%
+Collin Sexton,Assists,3.9,Under,DraftKings,100,4.5,0.6000000000000001,Yes,15.4%
+Jordan Hawkins,Rebounds,2.1,Over,Caesars,-174,1.5,0.6000000000000001,Yes,28.6%
+Chris Paul,Rebounds,3.9,Under,DraftKings,-125,4.5,0.6000000000000001,Yes,15.4%
+Jaylen Brown,Assists,5.1,Over,Caesars,133,4.5,0.5999999999999996,Yes,11.8%
+Josh Hart,Points,14.1,Over,FanDuel,-113,13.5,0.5999999999999996,Yes,4.3%
+Bam Adebayo,Rebounds,9.1,Over,Bovada,-115,8.5,0.5999999999999996,Yes,6.6%
+Haywood Highsmith,Points,8.1,Over,BetRivers,114,7.5,0.5999999999999996,Yes,7.4%
+Brook Lopez,Points,13.1,Over,BetRivers,102,12.5,0.5999999999999996,Yes,4.6%
+Taurean Prince,Points Rebounds Assists,11.1,Over,BetOnline.ag,-118,10.5,0.5999999999999996,Yes,5.4%
+Daniel Theis,Points,5.1,Over,DraftKings,-120,4.5,0.5999999999999996,Yes,11.8%
+Daniel Theis,Rebounds,4.9,Under,DraftKings,-145,5.5,0.5999999999999996,Yes,12.2%
+Klay Thompson,Points,13.1,Over,BetRivers,-157,12.5,0.5999999999999996,Yes,4.6%
+Victor Wembanyama,Rebounds,12.1,Over,FanDuel,-125,11.5,0.5999999999999996,Yes,5.0%
+Devin Vassell,Rebounds,5.1,Over,FanDuel,-122,4.5,0.5999999999999996,Yes,11.8%
+Jaylen Wells,Points,11.1,Over,FanDuel,-111,10.5,0.5999999999999996,Yes,5.4%
+Keon Johnson,Points,10.9,Under,Bovada,-110,11.5,0.5999999999999996,Yes,5.5%
+Gabe Vincent,Points,4.9,Under,BetMGM,-110,5.5,0.5999999999999996,Yes,12.2%
+Gabe Vincent,Points Rebounds Assists,7.9,Under,BetMGM,-105,8.5,0.5999999999999996,Yes,7.6%
+Luguentz Dort,Points Rebounds Assists,15.900000000000002,Under,BetOnline.ag,-115,16.5,0.5999999999999979,Yes,3.8%
+Anthony Davis,Points Rebounds Assists,40.900000000000006,Under,BetMGM,-105,41.5,0.5999999999999943,Yes,1.5%
+Derrick White,Points,13.0,Over,DraftKings,-105,12.5,0.5,Yes,3.8%
+Tristan da Silva,Rebounds,5.0,Over,DraftKings,-110,4.5,0.5,Yes,10.0%
+Wendell Carter Jr,Assists,2.0,Over,BetMGM,-190,1.5,0.5,Yes,25.0%
+Kentavious Caldwell-Pope,Rebounds,2.0,Over,Caesars,-174,1.5,0.5,Yes,25.0%
+Kentavious Caldwell-Pope,Assists,2.0,Over,Caesars,-160,1.5,0.5,Yes,25.0%
+Anthony Edwards,Rebounds,6.0,Over,FanDuel,-104,5.5,0.5,Yes,8.3%
+Jalen Brunson,Assists,7.0,Under,DraftKings,-120,7.5,0.5,Yes,7.1%
+Mikal Bridges,Assists,3.0,Over,BetRivers,-110,2.5,0.5,Yes,16.7%
+Naz Reid,Points,14.0,Over,DraftKings,-110,13.5,0.5,Yes,3.6%
+Coby White,Rebounds,3.0,Under,Caesars,-142,3.5,0.5,Yes,16.7%
+Nikola Vucevic,Rebounds,11.0,Over,FanDuel,-142,10.5,0.5,Yes,4.5%
+Nikola Vucevic,Points Rebounds Assists,33.0,Under,DraftKings,-110,33.5,0.5,Yes,1.5%
+Brandon Miller,Assists,4.0,Over,BetRivers,132,3.5,0.5,Yes,12.5%
+Brandon Miller,Points Rebounds Assists,28.0,Over,FanDuel,-125,27.5,0.5,Yes,1.8%
+Patrick Williams,Assists,2.0,Over,BetMGM,-150,1.5,0.5,Yes,25.0%
+Mark Williams,Rebounds,10.0,Under,Bovada,110,10.5,0.5,Yes,5.0%
+Bam Adebayo,Points Rebounds Assists,29.0,Over,DraftKings,-110,28.5,0.5,Yes,1.7%
+Haywood Highsmith,Assists,2.0,Over,BetMGM,100,1.5,0.5,Yes,25.0%
+Davion Mitchell,Rebounds,2.0,Over,Caesars,-166,1.5,0.5,Yes,25.0%
+Scottie Barnes,Points,20.0,Over,FanDuel,-122,19.5,0.5,Yes,2.5%
+Collin Sexton,Rebounds,3.0,Under,DraftKings,-135,3.5,0.5,Yes,16.7%
+C.J. McCollum,Points,20.0,Over,BetRivers,102,19.5,0.5,Yes,2.5%
+Zion Williamson,Points,23.0,Over,BetRivers,-148,22.5,0.5,Yes,2.2%
+Jose Alvarado,Assists,4.0,Over,BetOnline.ag,122,3.5,0.5,Yes,12.5%
+Jordan Hawkins,Assists,1.0,Over,BetMGM,-150,0.5,0.5,Yes,50.0%
+Klay Thompson,Rebounds,3.0,Under,BetOnline.ag,-123,3.5,0.5,Yes,16.7%
+Klay Thompson,Assists,2.0,Under,BetMGM,-150,2.5,0.5,Yes,25.0%
+P.J. Washington,Assists,2.0,Over,Caesars,-194,1.5,0.5,Yes,25.0%
+Chris Paul,Assists,8.0,Under,BetRivers,-130,8.5,0.5,Yes,6.2%
+Julian Champagnie,Points,10.0,Over,Caesars,100,9.5,0.5,Yes,5.0%
+Julian Champagnie,Assists,1.0,Over,BetMGM,-165,0.5,0.5,Yes,50.0%
+Anthony Davis,Points,25.0,Over,BetRivers,-157,24.5,0.5,Yes,2.0%
+Austin Reaves,Assists,7.0,Over,Bovada,-125,6.5,0.5,Yes,7.1%
+Noah Clowney,Points Rebounds Assists,16.900000000000002,Over,Bovada,-110,16.5,0.40000000000000213,Yes,2.4%
+Karl-Anthony Towns,Rebounds,13.9,Over,Bovada,110,13.5,0.40000000000000036,Yes,2.9%
+OG Anunoby,Points,14.9,Over,BetRivers,-108,14.5,0.40000000000000036,Yes,2.7%
+Josh Giddey,Rebounds,8.9,Over,FanDuel,120,8.5,0.40000000000000036,Yes,4.5%
+Brandon Miller,Rebounds,4.1,Under,BetRivers,-115,4.5,0.40000000000000036,Yes,9.8%
+Bobby Portis,Rebounds,7.9,Over,Caesars,-121,7.5,0.40000000000000036,Yes,5.1%
+Dejounte Murray,Assists,7.1,Under,Bovada,105,7.5,0.40000000000000036,Yes,5.6%
+Yves Missi,Points,7.9,Over,FanDuel,-115,7.5,0.40000000000000036,Yes,5.1%
+Daniel Theis,Points Rebounds Assists,11.1,Under,BetMGM,-105,11.5,0.40000000000000036,Yes,3.6%
+Jaren Jackson Jr,Rebounds,6.9,Over,FanDuel,-120,6.5,0.40000000000000036,Yes,5.8%
+Harrison Barnes,Points,12.9,Over,BetRivers,102,12.5,0.40000000000000036,Yes,3.1%
+Julius Randle,Assists,3.9,Over,FanDuel,-160,3.5,0.3999999999999999,Yes,10.3%
+OG Anunoby,Assists,1.9,Over,BetOnline.ag,-164,1.5,0.3999999999999999,Yes,21.1%
+Josh Green,Assists,1.1,Under,BetMGM,-165,1.5,0.3999999999999999,Yes,36.4%
+Terry Rozier,Rebounds,3.9,Over,BetRivers,132,3.5,0.3999999999999999,Yes,10.3%
+Jakob Poeltl,Assists,2.9,Over,BetOnline.ag,-109,2.5,0.3999999999999999,Yes,13.8%
+C.J. McCollum,Rebounds,3.1,Under,BetMGM,-125,3.5,0.3999999999999999,Yes,12.9%
+Daniel Theis,Assists,1.1,Under,BetMGM,-160,1.5,0.3999999999999999,Yes,36.4%
+Daniel Gafford,Assists,1.1,Under,BetMGM,-105,1.5,0.3999999999999999,Yes,36.4%
+Jaylin Williams,Assists,2.1,Under,BetOnline.ag,102,2.5,0.3999999999999999,Yes,19.0%
+Harrison Barnes,Assists,1.9,Over,Caesars,-113,1.5,0.3999999999999999,Yes,21.1%
+Austin Reaves,Rebounds,3.9,Over,DraftKings,-154,3.5,0.3999999999999999,Yes,10.3%
+Zach LaVine,Points,25.9,Over,FanDuel,-115,25.5,0.3999999999999986,Yes,1.5%
+Zach LaVine,Points Rebounds Assists,36.1,Under,BetRivers,-118,36.5,0.3999999999999986,Yes,1.1%
+Miles Bridges,Points,18.9,Over,BetRivers,-132,18.5,0.3999999999999986,Yes,2.1%
+Brandon Miller,Points,19.9,Over,BetRivers,-130,19.5,0.3999999999999986,Yes,2.0%
+Zion Williamson,Points Rebounds Assists,35.9,Over,DraftKings,-110,35.5,0.3999999999999986,Yes,1.1%
+Ja Morant,Points,22.1,Under,BetRivers,102,22.5,0.3999999999999986,Yes,1.8%
+Cole Anthony,Points,13.2,Under,BetRivers,123,13.5,0.3000000000000007,Yes,2.3%
+Anthony Black,Points,9.8,Over,BetMGM,-105,9.5,0.3000000000000007,Yes,3.1%
+Julius Randle,Points,19.2,Under,BetMGM,105,19.5,0.3000000000000007,Yes,1.6%
+Nikola Vucevic,Points,18.8,Over,BetRivers,-115,18.5,0.3000000000000007,Yes,1.6%
+Josh Giddey,Points Rebounds Assists,26.2,Under,DraftKings,-105,26.5,0.3000000000000007,Yes,1.1%
+Terry Rozier,Points Rebounds Assists,17.2,Under,Bovada,100,17.5,0.3000000000000007,Yes,1.7%
+P.J. Washington,Rebounds,8.8,Over,FanDuel,106,8.5,0.3000000000000007,Yes,3.4%
+Jaren Jackson Jr,Points,23.8,Over,BetRivers,114,23.5,0.3000000000000007,Yes,1.3%
+Austin Reaves,Points,17.2,Under,BetRivers,115,17.5,0.3000000000000007,Yes,1.7%
+Caleb Houstan,Rebounds,1.2,Under,BetMGM,135,1.5,0.30000000000000004,Yes,25.0%
+Caleb Houstan,Assists,0.8,Over,Caesars,-133,0.5,0.30000000000000004,Yes,37.5%
+Jose Alvarado,Rebounds,1.8,Over,BetOnline.ag,-109,1.5,0.30000000000000004,Yes,16.7%
+Luguentz Dort,Assists,1.8,Over,BetMGM,120,1.5,0.30000000000000004,Yes,16.7%
+Jaylen Wells,Assists,1.2,Under,Caesars,-129,1.5,0.30000000000000004,Yes,25.0%
+Rui Hachimura,Assists,1.2,Under,Caesars,-199,1.5,0.30000000000000004,Yes,25.0%
+Paolo Banchero,Assists,4.8,Over,DraftKings,114,4.5,0.2999999999999998,Yes,6.2%
+Jaylen Brown,Rebounds,5.8,Over,BetRivers,-127,5.5,0.2999999999999998,Yes,5.2%
+Payton Pritchard,Assists,3.2,Under,BetMGM,-135,3.5,0.2999999999999998,Yes,9.4%
+Jonathan Isaac,Rebounds,5.8,Over,DraftKings,110,5.5,0.2999999999999998,Yes,5.2%
+Anthony Black,Rebounds,2.2,Under,BetMGM,-115,2.5,0.2999999999999998,Yes,13.6%
+Josh Hart,Assists,5.8,Over,FanDuel,-122,5.5,0.2999999999999998,Yes,5.2%
+Naz Reid,Rebounds,5.8,Over,DraftKings,105,5.5,0.2999999999999998,Yes,5.2%
+Coby White,Assists,4.8,Over,Caesars,-103,4.5,0.2999999999999998,Yes,6.2%
+LaMelo Ball,Rebounds,5.8,Over,DraftKings,-130,5.5,0.2999999999999998,Yes,5.2%
+Miles Bridges,Rebounds,7.8,Over,DraftKings,-120,7.5,0.2999999999999998,Yes,3.8%
+Miles Bridges,Assists,3.8,Over,FanDuel,-154,3.5,0.2999999999999998,Yes,7.9%
+Josh Giddey,Assists,6.8,Over,DraftKings,100,6.5,0.2999999999999998,Yes,4.4%
+Terry Rozier,Assists,2.8,Over,BetRivers,-117,2.5,0.2999999999999998,Yes,10.7%
+Giannis Antetokounmpo,Assists,6.2,Under,BetOnline.ag,-108,6.5,0.2999999999999998,Yes,4.8%
+Scottie Barnes,Rebounds,7.8,Over,FanDuel,-106,7.5,0.2999999999999998,Yes,3.8%
+Yves Missi,Rebounds,7.2,Under,FanDuel,106,7.5,0.2999999999999998,Yes,4.2%
+Devin Vassell,Assists,3.2,Under,BetRivers,-108,3.5,0.2999999999999998,Yes,9.4%
+Desmond Bane,Assists,4.8,Over,BetRivers,-159,4.5,0.2999999999999998,Yes,6.2%
+Anthony Davis,Assists,3.2,Under,BetRivers,102,3.5,0.2999999999999998,Yes,9.4%
+Keon Johnson,Rebounds,2.8,Over,Caesars,-154,2.5,0.2999999999999998,Yes,10.7%
+Keon Johnson,Assists,2.2,Under,DraftKings,-180,2.5,0.2999999999999998,Yes,13.6%
+Noah Clowney,Rebounds,4.2,Under,Caesars,-117,4.5,0.2999999999999998,Yes,7.1%
+Brook Lopez,Points Rebounds Assists,19.200000000000003,Under,DraftKings,-115,19.5,0.29999999999999716,Yes,1.6%
+Shai Gilgeous-Alexander,Points Rebounds Assists,43.2,Under,BetRivers,-107,43.5,0.29999999999999716,Yes,0.7%
+C.J. McCollum,Points Rebounds Assists,26.700000000000003,Over,BetMGM,-105,26.5,0.20000000000000284,Yes,0.7%
+Shai Gilgeous-Alexander,Points,32.7,Over,BetRivers,100,32.5,0.20000000000000284,Yes,0.6%
+Zach Edey,Points Rebounds Assists,14.299999999999999,Under,BetOnline.ag,-114,14.5,0.20000000000000107,Yes,1.4%
+Derrick White,Assists,3.3,Under,Bovada,-130,3.5,0.20000000000000018,Yes,6.1%
+Jayson Tatum,Assists,4.7,Over,FanDuel,-138,4.5,0.20000000000000018,Yes,4.3%
+Tristan da Silva,Points,7.3,Under,BetRivers,120,7.5,0.20000000000000018,Yes,2.7%
+Nickeil Alexander-Walker,Rebounds,2.7,Over,BetMGM,-150,2.5,0.20000000000000018,Yes,7.4%
+Khris Middleton,Rebounds,3.7,Over,BetOnline.ag,-125,3.5,0.20000000000000018,Yes,5.4%
+Damian Lillard,Assists,6.7,Over,DraftKings,-125,6.5,0.20000000000000018,Yes,3.0%
+Keyonte George,Assists,5.3,Under,Bovada,-110,5.5,0.20000000000000018,Yes,3.8%
+Zion Williamson,Assists,5.7,Over,FanDuel,120,5.5,0.20000000000000018,Yes,3.5%
+Cason Wallace,Assists,2.7,Over,FanDuel,-128,2.5,0.20000000000000018,Yes,7.4%
+Jalen Williams,Assists,5.3,Under,Bovada,-135,5.5,0.20000000000000018,Yes,3.8%
+Julian Champagnie,Rebounds,3.7,Over,BetMGM,105,3.5,0.20000000000000018,Yes,5.4%
+Cameron Johnson,Assists,2.7,Over,BetMGM,125,2.5,0.20000000000000018,Yes,7.4%
+Rui Hachimura,Rebounds,4.7,Over,DraftKings,-130,4.5,0.20000000000000018,Yes,4.3%
+Taurean Prince,Assists,1.7,Over,BetMGM,-120,1.5,0.19999999999999996,Yes,11.8%
+Drew Eubanks,Assists,1.7,Over,BetMGM,-105,1.5,0.19999999999999996,Yes,11.8%
+Noah Clowney,Assists,1.3,Under,Caesars,-224,1.5,0.19999999999999996,Yes,15.4%
+Derrick White,Points Rebounds Assists,19.7,Over,DraftKings,-110,19.5,0.1999999999999993,Yes,1.0%
+Rudy Gobert,Points,9.7,Over,Caesars,-109,9.5,0.1999999999999993,Yes,2.1%
+Coby White,Points,18.7,Over,BetRivers,100,18.5,0.1999999999999993,Yes,1.1%
+Gary Trent Jr,Points,9.7,Over,BetRivers,102,9.5,0.1999999999999993,Yes,2.1%
+Cason Wallace,Points Rebounds Assists,15.7,Over,DraftKings,-105,15.5,0.1999999999999993,Yes,1.3%
+Jalen Williams,Points,20.7,Over,DraftKings,-105,20.5,0.1999999999999993,Yes,1.0%
+P.J. Washington,Points,13.7,Over,BetRivers,-134,13.5,0.1999999999999993,Yes,1.5%
+Chris Paul,Points,10.7,Over,BetRivers,106,10.5,0.1999999999999993,Yes,1.9%
+Jaylen Wells,Points Rebounds Assists,15.7,Over,BetOnline.ag,-108,15.5,0.1999999999999993,Yes,1.3%
+LeBron James,Points,22.7,Over,BetRivers,-139,22.5,0.1999999999999993,Yes,0.9%
+Anthony Davis,Rebounds,12.7,Over,FanDuel,-111,12.5,0.1999999999999993,Yes,1.6%
+Jaylen Brown,Points,20.6,Over,FanDuel,-128,20.5,0.10000000000000142,Yes,0.5%
+Anthony Edwards,Points,26.6,Over,FanDuel,-104,26.5,0.10000000000000142,Yes,0.4%
+OG Anunoby,Points Rebounds Assists,20.4,Under,BetOnline.ag,-115,20.5,0.10000000000000142,Yes,0.5%
+Tyler Herro,Points,25.6,Over,BetRivers,115,25.5,0.10000000000000142,Yes,0.4%
+Khris Middleton,Points Rebounds Assists,19.6,Over,Bovada,-120,19.5,0.10000000000000142,Yes,0.5%
+Giannis Antetokounmpo,Points,30.6,Over,BetRivers,120,30.5,0.10000000000000142,Yes,0.3%
+Bobby Portis,Points Rebounds Assists,20.6,Over,Bovada,-125,20.5,0.10000000000000142,Yes,0.5%
+Yves Missi,Points Rebounds Assists,16.6,Over,BetOnline.ag,-103,16.5,0.10000000000000142,Yes,0.6%
+Chris Paul,Points Rebounds Assists,22.6,Over,BetOnline.ag,-116,22.5,0.10000000000000142,Yes,0.4%
+Derrick White,Rebounds,3.4,Under,BetMGM,-125,3.5,0.10000000000000009,Yes,2.9%
+Kristaps Porzingis,Assists,1.6,Over,Caesars,-117,1.5,0.10000000000000009,Yes,6.3%
+Al Horford,Assists,1.4,Under,Caesars,-154,1.5,0.10000000000000009,Yes,7.1%
+Jalen Brunson,Rebounds,3.6,Over,FanDuel,132,3.5,0.10000000000000009,Yes,2.8%
+OG Anunoby,Rebounds,3.6,Over,FanDuel,-160,3.5,0.10000000000000009,Yes,2.8%
+Jaden McDaniels,Assists,1.4,Under,BetMGM,-185,1.5,0.10000000000000009,Yes,7.1%
+Mikal Bridges,Rebounds,2.6,Over,BetOnline.ag,-145,2.5,0.10000000000000009,Yes,3.8%
+Mike Conley,Rebounds,2.6,Over,BetMGM,105,2.5,0.10000000000000009,Yes,3.8%
+Nickeil Alexander-Walker,Assists,2.6,Over,BetMGM,-110,2.5,0.10000000000000009,Yes,3.8%
+Patrick Williams,Rebounds,3.4,Under,FanDuel,-113,3.5,0.10000000000000009,Yes,2.9%
+Haywood Highsmith,Rebounds,3.6,Over,FanDuel,142,3.5,0.10000000000000009,Yes,2.8%
+Brook Lopez,Assists,1.6,Over,BetMGM,125,1.5,0.10000000000000009,Yes,6.3%
+Gary Trent Jr,Rebounds,2.4,Under,BetOnline.ag,-152,2.5,0.10000000000000009,Yes,4.2%
+Bobby Portis,Assists,1.4,Under,BetMGM,100,1.5,0.10000000000000009,Yes,7.1%
+C.J. McCollum,Assists,3.6,Over,FanDuel,-136,3.5,0.10000000000000009,Yes,2.8%
+Cody Williams,Assists,1.4,Under,BetMGM,-115,1.5,0.10000000000000009,Yes,7.1%
+Cason Wallace,Rebounds,3.4,Under,DraftKings,105,3.5,0.10000000000000009,Yes,2.9%
+Victor Wembanyama,Assists,3.4,Under,FanDuel,-113,3.5,0.10000000000000009,Yes,2.9%
+Jaylen Wells,Rebounds,3.4,Under,BetRivers,-104,3.5,0.10000000000000009,Yes,2.9%
+Cameron Johnson,Rebounds,3.6,Over,DraftKings,120,3.5,0.10000000000000009,Yes,2.8%
+Max Christie,Assists,1.4,Under,BetMGM,105,1.5,0.10000000000000009,Yes,7.1%
+Chris Boucher,Assists,0.6,Over,BetMGM,100,0.5,0.09999999999999998,Yes,16.7%
+Zach Edey,Assists,0.6,Over,BetMGM,-145,0.5,0.09999999999999998,Yes,16.7%
+Jayson Tatum,Rebounds,9.4,Under,Caesars,-133,9.5,0.09999999999999964,Yes,1.1%
+Jrue Holiday,Rebounds,4.6,Over,FanDuel,124,4.5,0.09999999999999964,Yes,2.2%
+Anthony Black,Points Rebounds Assists,15.6,Over,BetMGM,-105,15.5,0.09999999999999964,Yes,0.6%
+Kentavious Caldwell-Pope,Points,8.6,Over,DraftKings,-120,8.5,0.09999999999999964,Yes,1.2%
+Anthony Edwards,Assists,4.6,Over,FanDuel,-122,4.5,0.09999999999999964,Yes,2.2%
+Rudy Gobert,Rebounds,10.4,Under,BetOnline.ag,-114,10.5,0.09999999999999964,Yes,1.0%
+Zach LaVine,Rebounds,5.6,Over,FanDuel,122,5.5,0.09999999999999964,Yes,1.8%
+Zach LaVine,Assists,4.6,Over,DraftKings,-130,4.5,0.09999999999999964,Yes,2.2%
+Khris Middleton,Points,11.4,Under,FanDuel,-102,11.5,0.09999999999999964,Yes,0.9%
+Jakob Poeltl,Points,13.6,Over,BetRivers,114,13.5,0.09999999999999964,Yes,0.7%
+Jakob Poeltl,Rebounds,10.6,Over,Bovada,110,10.5,0.09999999999999964,Yes,0.9%
+Cason Wallace,Points,9.6,Over,Bovada,125,9.5,0.09999999999999964,Yes,1.0%
+Jalen Williams,Rebounds,5.4,Under,BetRivers,114,5.5,0.09999999999999964,Yes,1.9%
+Zach Edey,Rebounds,6.4,Under,DraftKings,114,6.5,0.09999999999999964,Yes,1.6%
+LeBron James,Assists,8.6,Over,Bovada,-110,8.5,0.09999999999999964,Yes,1.2%
+Noah Clowney,Points,11.4,Under,DraftKings,-125,11.5,0.09999999999999964,Yes,0.9%
+Payton Pritchard,Points Rebounds Assists,17.599999999999998,Over,BetOnline.ag,102,17.5,0.09999999999999787,Yes,0.6%
+Mark Williams,Points Rebounds Assists,28.599999999999998,Over,DraftKings,-125,28.5,0.09999999999999787,Yes,0.3%
+Jalen Williams,Points Rebounds Assists,31.400000000000002,Under,Bovada,-105,31.5,0.09999999999999787,Yes,0.3%
+Tristan da Silva,Assists,1.5,N/A,N/A,N/A,N/A,N/A,No,N/A
+Jonathan Isaac,Assists,0.5,N/A,N/A,N/A,N/A,N/A,No,N/A
+Naz Reid,Assists,1.5,N/A,N/A,N/A,N/A,N/A,No,N/A
+Nickeil Alexander-Walker,Points,7.5,N/A,N/A,N/A,N/A,N/A,No,N/A
+Keyonte George,Rebounds,3.5,N/A,N/A,N/A,N/A,N/A,No,N/A
+Yves Missi,Assists,1.5,N/A,N/A,N/A,N/A,N/A,No,N/A
+Kyrie Irving,Rebounds,4.5,N/A,N/A,N/A,N/A,N/A,No,N/A
+P.J. Washington,Points Rebounds Assists,24.5,N/A,N/A,N/A,N/A,N/A,No,N/A
+Naji Marshall,Assists,3.5,N/A,N/A,N/A,N/A,N/A,No,N/A
+Jaren Jackson Jr,Assists,2.5,N/A,N/A,N/A,N/A,N/A,No,N/A
+Keldon Johnson,Points,13.5,N/A,N/A,N/A,N/A,N/A,No,N/A
+Keldon Johnson,Assists,1.5,N/A,N/A,N/A,N/A,N/A,No,N/A
+Gabe Vincent,Rebounds,1.5,N/A,N/A,N/A,N/A,N/A,No,N/A
+Gabe Vincent,Assists,1.5,N/A,N/A,N/A,N/A,N/A,No,N/A
