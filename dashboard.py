@@ -108,6 +108,11 @@ def run_streamlit_app():
         options=projections_data['Bookmaker'].unique() if not projections_data.empty else [],
         default=projections_data['Bookmaker'].unique() if not projections_data.empty else []
     )
+    team_filter = st.sidebar.multiselect(
+        "Filter by Team:",  # Add team filter
+        options=projections_data['Home Team'].unique() if not projections_data.empty else [],
+        default=projections_data['Home Team'].unique() if not projections_data.empty else []
+    )
     confidence_filter = st.sidebar.slider(
         "Filter by Confidence (%)",
         min_value=0,
@@ -120,6 +125,7 @@ def run_streamlit_app():
         (projections_data['Player Name'].str.contains(player_filter, case=False, na=False)) &
         (projections_data['Metric'].isin(metric_filter)) &
         (projections_data['Bookmaker'].isin(sportsbook_filter)) &
+        (projections_data['Home Team'].isin(team_filter)) &  # Apply team filter
         (projections_data['Confidence'].between(*confidence_filter))
     ]
 
