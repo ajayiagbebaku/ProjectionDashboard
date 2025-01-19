@@ -10,7 +10,6 @@ Jalen Green,Points Rebounds Assists,34.0,Over,BetMGM,-105,31.5,2.5,Yes,7.4%
 Jalen Green,Points,26.8,Over,BetRivers,112,24.5,2.3000000000000007,Yes,8.6%
 Kyle Kuzma,Points,12.4,Under,BetRivers,112,14.5,2.0999999999999996,Yes,16.9%
 Moses Moody,Points Rebounds Assists,10.4,Under,BetMGM,-110,12.5,2.0999999999999996,Yes,20.2%
-Kyshawn George,Points,9.6,Over,FanDuel,-110,7.5,2.0999999999999996,Yes,21.9%
 Buddy Hield,Points Rebounds Assists,19.599999999999998,Over,BetMGM,-110,17.5,2.099999999999998,Yes,10.7%
 Stephen Curry,Points Rebounds Assists,35.400000000000006,Under,FanDuel,-115,37.5,2.0999999999999943,Yes,5.9%
 Tari Eason,Points Rebounds Assists,18.5,Over,Bovada,-120,16.5,2.0,Yes,10.8%
@@ -37,9 +36,10 @@ Carlton Carrington,Points Rebounds Assists,15.3,Under,BetRivers,-108,16.5,1.1999
 Darius Garland,Points,22.7,Over,BetRivers,102,21.5,1.1999999999999993,Yes,5.3%
 Cam Whitmore,Points,11.7,Over,Bovada,-110,10.5,1.1999999999999993,Yes,10.3%
 Moses Moody,Points,7.4,Under,BetMGM,-105,8.5,1.0999999999999996,Yes,14.9%
+Kyshawn George,Points,9.6,Over,Bovada,105,8.5,1.0999999999999996,Yes,11.5%
 Tari Eason,Points,11.6,Over,Bovada,100,10.5,1.0999999999999996,Yes,9.5%
 Jordan Poole,Points Rebounds Assists,28.5,Under,BetRivers,-112,29.5,1.0,Yes,3.5%
-Dennis Schroder,Points Rebounds Assists,20.5,Under,BetRivers,-115,21.5,1.0,Yes,4.9%
+Dennis Schroder,Points Rebounds Assists,20.5,Over,Bovada,-160,19.5,1.0,Yes,4.9%
 Buddy Hield,Points,13.5,Over,FanDuel,104,12.5,1.0,Yes,7.4%
 Anthony Edwards,Rebounds,6.5,Over,FanDuel,-132,5.5,1.0,Yes,15.4%
 Rudy Gobert,Rebounds,9.5,Under,BetOnline.ag,115,10.5,1.0,Yes,10.5%
@@ -64,7 +64,7 @@ Darius Garland,Assists,7.3,Over,FanDuel,-118,6.5,0.7999999999999998,Yes,11.0%
 Fred VanVleet,Rebounds,2.7,Under,Caesars,-125,3.5,0.7999999999999998,Yes,29.6%
 Shaedon Sharpe,Rebounds,3.7,Under,FanDuel,-118,4.5,0.7999999999999998,Yes,21.6%
 Kevon Looney,Points Rebounds Assists,14.799999999999999,Under,Caesars,-133,15.5,0.7000000000000011,Yes,4.7%
-Kyle Kuzma,Rebounds,4.8,Under,BetRivers,102,5.5,0.7000000000000002,Yes,14.6%
+Kyle Kuzma,Rebounds,4.8,Under,Bovada,105,5.5,0.7000000000000002,Yes,14.6%
 Julius Randle,Assists,4.2,Over,BetRivers,-155,3.5,0.7000000000000002,Yes,16.7%
 Alperen Sengun,Assists,5.2,Over,BetMGM,-140,4.5,0.7000000000000002,Yes,13.5%
 Toumani Camara,Rebounds,4.8,Under,Caesars,-109,5.5,0.7000000000000002,Yes,14.6%
@@ -81,7 +81,7 @@ Jalen Green,Assists,3.1,Over,BetMGM,-150,2.5,0.6000000000000001,Yes,19.4%
 Rudy Gobert,Points,10.1,Over,BetRivers,-107,9.5,0.5999999999999996,Yes,5.9%
 Tari Eason,Rebounds,6.1,Over,Bovada,115,5.5,0.5999999999999996,Yes,9.8%
 Kyle Kuzma,Assists,3.0,Over,Caesars,-137,2.5,0.5,Yes,16.7%
-Bilal Coulibaly,Assists,3.0,Under,Bovada,-125,3.5,0.5,Yes,16.7%
+Bilal Coulibaly,Assists,3.0,Under,BetRivers,-137,3.5,0.5,Yes,16.7%
 Trayce Jackson-Davis,Rebounds,8.0,Under,DraftKings,-105,8.5,0.5,Yes,6.2%
 Trayce Jackson-Davis,Assists,2.0,Under,BetMGM,120,2.5,0.5,Yes,25.0%
 Carlton Carrington,Rebounds,4.0,Under,DraftKings,-135,4.5,0.5,Yes,12.5%
