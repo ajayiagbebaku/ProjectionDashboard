@@ -109,7 +109,7 @@ def run_streamlit_app():
         default=projections_data['Bookmaker'].unique() if not projections_data.empty else []
     )
     team_filter = st.sidebar.multiselect(
-        "Filter by Team:",  # Add team filter
+        "Filter by Home Team:",  # Add team filter
         options=projections_data['Home Team'].unique() if not projections_data.empty else [],
         default=projections_data['Home Team'].unique() if not projections_data.empty else []
     )
