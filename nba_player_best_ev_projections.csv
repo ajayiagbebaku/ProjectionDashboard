@@ -1,424 +1,180 @@
 Player Name,Metric,Projected Value,Best Bet,Bookmaker,Odds,Point Line,Difference,Projection Aligns,Confidence,Home Team,Away Team
-Franz Wagner,Points Rebounds Assists,38.300000000000004,Over,BetOnline.ag,-114,24.5,13.800000000000004,Yes,36.0%,Orlando Magic,Portland Trail Blazers
-Franz Wagner,Points,26.6,Over,BetRivers,110,17.5,9.100000000000001,Yes,34.2%,Orlando Magic,Portland Trail Blazers
-Scoot Henderson,Points Rebounds Assists,27.6,Over,BetMGM,100,19.5,8.100000000000001,Yes,29.3%,Orlando Magic,Portland Trail Blazers
-Olivier-Maxence Prosper,Points Rebounds Assists,7.999999999999999,Under,BetOnline.ag,-103,14.5,6.500000000000001,Yes,81.3%,Oklahoma City Thunder,Dallas Mavericks
-Quentin Grimes,Points Rebounds Assists,14.2,Under,FanDuel,-102,20.5,6.300000000000001,Yes,44.4%,Oklahoma City Thunder,Dallas Mavericks
-Scoot Henderson,Points,17.5,Over,BetRivers,108,12.5,5.0,Yes,28.6%,Orlando Magic,Portland Trail Blazers
-Kawhi Leonard,Points Rebounds Assists,17.8,Under,BetOnline.ag,-123,22.5,4.699999999999999,Yes,26.4%,Los Angeles Clippers,Washington Wizards
-Stephen Curry,Points Rebounds Assists,33.9,Under,BetOnline.ag,-114,38.5,4.600000000000001,Yes,13.6%,Golden State Warriors,Chicago Bulls
-Aaron Gordon,Points Rebounds Assists,19.900000000000002,Over,DraftKings,-125,15.5,4.400000000000002,Yes,22.1%,Denver Nuggets,Sacramento Kings
-Domantas Sabonis,Points Rebounds Assists,42.6,Over,DraftKings,-105,38.5,4.100000000000001,Yes,9.6%,Denver Nuggets,Sacramento Kings
-Kel'el Ware,Points Rebounds Assists,20.400000000000002,Under,DraftKings,-105,24.5,4.099999999999998,Yes,20.1%,Milwaukee Bucks,Miami Heat
-Wendell Carter Jr,Points Rebounds Assists,20.599999999999998,Under,DraftKings,-125,24.5,3.900000000000002,Yes,18.9%,Orlando Magic,Portland Trail Blazers
-Aaron Gordon,Points,13.3,Over,DraftKings,-115,9.5,3.8000000000000007,Yes,28.6%,Denver Nuggets,Sacramento Kings
-Shaedon Sharpe,Points Rebounds Assists,24.1,Over,Bovada,100,20.5,3.6000000000000014,Yes,14.9%,Orlando Magic,Portland Trail Blazers
-Christian Braun,Points Rebounds Assists,21.1,Over,BetMGM,-110,17.5,3.6000000000000014,Yes,17.1%,Denver Nuggets,Sacramento Kings
-Jaylin Williams,Points Rebounds Assists,13.9,Under,Bovada,-105,17.5,3.5999999999999996,Yes,25.9%,Oklahoma City Thunder,Dallas Mavericks
-Dorian Finney-Smith,Points,9.1,Over,FanDuel,-122,5.5,3.5999999999999996,Yes,39.6%,Los Angeles Lakers,Boston Celtics
-DeMar DeRozan,Points Rebounds Assists,32.099999999999994,Over,DraftKings,-110,28.5,3.5999999999999943,Yes,11.2%,Denver Nuggets,Sacramento Kings
-Payton Pritchard,Points Rebounds Assists,21.0,Over,Bovada,-105,17.5,3.5,Yes,16.7%,Los Angeles Lakers,Boston Celtics
-Rui Hachimura,Points Rebounds Assists,20.0,Over,DraftKings,-105,16.5,3.5,Yes,17.5%,Los Angeles Lakers,Boston Celtics
-Olivier-Maxence Prosper,Points,4.1,Under,FanDuel,100,7.5,3.4000000000000004,Yes,82.9%,Oklahoma City Thunder,Dallas Mavericks
-Payton Pritchard,Points,13.9,Over,BetMGM,-110,10.5,3.4000000000000004,Yes,24.5%,Los Angeles Lakers,Boston Celtics
-Jalen Johnson,Points Rebounds Assists,31.1,Under,BetMGM,-115,34.5,3.3999999999999986,Yes,10.9%,Atlanta Hawks,Toronto Raptors
-Keon Ellis,Points Rebounds Assists,12.8,Over,BetMGM,100,9.5,3.3000000000000007,Yes,25.8%,Denver Nuggets,Sacramento Kings
-Ayo Dosunmu,Points,10.4,Under,FanDuel,-120,13.5,3.0999999999999996,Yes,29.8%,Golden State Warriors,Chicago Bulls
-Derrick Jones,Points,12.5,Over,DraftKings,-105,9.5,3.0,Yes,24.0%,Los Angeles Clippers,Washington Wizards
+Trayce Jackson-Davis,Points Rebounds Assists,17.599999999999998,Under,BetMGM,-115,22.5,4.900000000000002,Yes,27.8%,Golden State Warriors,Chicago Bulls
+Kawhi Leonard,Points Rebounds Assists,17.8,Under,DraftKings,-120,22.5,4.699999999999999,Yes,26.4%,Los Angeles Clippers,Washington Wizards
+Stephen Curry,Points Rebounds Assists,33.9,Under,BetMGM,-110,37.5,3.6000000000000014,Yes,10.6%,Golden State Warriors,Chicago Bulls
+Dorian Finney-Smith,Points,9.1,Over,FanDuel,-120,5.5,3.5999999999999996,Yes,39.6%,Los Angeles Lakers,Boston Celtics
+Rui Hachimura,Points Rebounds Assists,20.0,Over,BetOnline.ag,-108,16.5,3.5,Yes,17.5%,Los Angeles Lakers,Boston Celtics
+Al Horford,Points Rebounds Assists,13.7,Over,BetMGM,-135,10.5,3.1999999999999993,Yes,23.4%,Los Angeles Lakers,Boston Celtics
 Dorian Finney-Smith,Points Rebounds Assists,13.399999999999999,Over,BetOnline.ag,-106,10.5,2.8999999999999986,Yes,21.6%,Los Angeles Lakers,Boston Celtics
-Quentin Grimes,Points,8.7,Under,BetRivers,104,11.5,2.8000000000000007,Yes,32.2%,Oklahoma City Thunder,Dallas Mavericks
-Norman Powell,Points Rebounds Assists,29.3,Over,BetMGM,-110,26.5,2.8000000000000007,Yes,9.6%,Los Angeles Clippers,Washington Wizards
-Derrick Jones,Points Rebounds Assists,17.3,Over,BetOnline.ag,-103,14.5,2.8000000000000007,Yes,16.2%,Los Angeles Clippers,Washington Wizards
-Stephen Curry,Points,22.8,Under,BetOnline.ag,-114,25.5,2.6999999999999993,Yes,11.8%,Golden State Warriors,Chicago Bulls
-Shaedon Sharpe,Points,17.1,Over,Bovada,115,14.5,2.6000000000000014,Yes,15.2%,Orlando Magic,Portland Trail Blazers
+Norman Powell,Points Rebounds Assists,29.3,Over,BetOnline.ag,-110,26.5,2.8000000000000007,Yes,9.6%,Los Angeles Clippers,Washington Wizards
+Derrick Jones,Points Rebounds Assists,17.3,Over,BetMGM,100,14.5,2.8000000000000007,Yes,16.2%,Los Angeles Clippers,Washington Wizards
+Buddy Hield,Points Rebounds Assists,15.799999999999999,Under,DraftKings,-115,18.5,2.700000000000001,Yes,17.1%,Golden State Warriors,Chicago Bulls
 Jonas Valanciunas,Points Rebounds Assists,22.1,Over,BetMGM,-110,19.5,2.6000000000000014,Yes,11.8%,Los Angeles Clippers,Washington Wizards
-Bogdan Bogdanovic,Points Rebounds Assists,10.9,Under,BetOnline.ag,-108,13.5,2.5999999999999996,Yes,23.9%,Atlanta Hawks,Toronto Raptors
-Bogdan Bogdanovic,Points,7.0,Under,DraftKings,-110,9.5,2.5,Yes,35.7%,Atlanta Hawks,Toronto Raptors
-Kel'el Ware,Points,12.0,Under,BetRivers,-108,14.5,2.5,Yes,20.8%,Milwaukee Bucks,Miami Heat
-Christian Braun,Points,15.0,Over,Bovada,130,12.5,2.5,Yes,16.7%,Denver Nuggets,Sacramento Kings
-Ayo Dosunmu,Points Rebounds Assists,19.0,Under,FanDuel,-111,21.5,2.5,Yes,13.2%,Golden State Warriors,Chicago Bulls
-Olivier-Maxence Prosper,Rebounds,3.1,Under,DraftKings,-105,5.5,2.4,Yes,77.4%,Oklahoma City Thunder,Dallas Mavericks
-Daniel Gafford,Points Rebounds Assists,25.1,Under,DraftKings,-120,27.5,2.3999999999999986,Yes,9.6%,Oklahoma City Thunder,Dallas Mavericks
-Tyler Herro,Points Rebounds Assists,36.800000000000004,Over,BetRivers,-106,34.5,2.3000000000000043,Yes,6.3%,Milwaukee Bucks,Miami Heat
-De'Andre Hunter,Points Rebounds Assists,22.2,Under,Bovada,-120,24.5,2.3000000000000007,Yes,10.4%,Atlanta Hawks,Toronto Raptors
-Domantas Sabonis,Points,21.8,Over,BetRivers,100,19.5,2.3000000000000007,Yes,10.6%,Denver Nuggets,Sacramento Kings
-Shai Gilgeous-Alexander,Points Rebounds Assists,45.7,Over,Bovada,110,43.5,2.200000000000003,Yes,4.8%,Oklahoma City Thunder,Dallas Mavericks
-Franz Wagner,Assists,5.7,Over,FanDuel,-112,3.5,2.2,Yes,38.6%,Orlando Magic,Portland Trail Blazers
-DeMar DeRozan,Points,24.7,Over,Bovada,130,22.5,2.1999999999999993,Yes,8.9%,Denver Nuggets,Sacramento Kings
-Derrick White,Points Rebounds Assists,22.6,Over,BetOnline.ag,-109,20.5,2.1000000000000014,Yes,9.3%,Los Angeles Lakers,Boston Celtics
-Scoot Henderson,Assists,6.6,Over,DraftKings,-120,4.5,2.0999999999999996,Yes,31.8%,Orlando Magic,Portland Trail Blazers
-Keon Ellis,Points,9.6,Over,DraftKings,100,7.5,2.0999999999999996,Yes,21.9%,Denver Nuggets,Sacramento Kings
-Gary Trent Jr,Points Rebounds Assists,13.5,Over,BetOnline.ag,-110,11.5,2.0,Yes,14.8%,Milwaukee Bucks,Miami Heat
-Jamal Murray,Points Rebounds Assists,32.5,Over,FanDuel,-104,30.5,2.0,Yes,6.2%,Denver Nuggets,Sacramento Kings
-Kawhi Leonard,Rebounds,2.6,Under,BetRivers,-130,4.5,1.9,Yes,73.1%,Los Angeles Clippers,Washington Wizards
-Kyshawn George,Points,9.3,Over,BetMGM,-105,7.5,1.8000000000000007,Yes,19.4%,Los Angeles Clippers,Washington Wizards
-Julian Strawther,Points Rebounds Assists,14.299999999999999,Over,BetOnline.ag,-114,12.5,1.799999999999999,Yes,12.6%,Denver Nuggets,Sacramento Kings
-Taurean Prince,Points Rebounds Assists,12.200000000000001,Over,BetOnline.ag,-123,10.5,1.700000000000001,Yes,13.9%,Milwaukee Bucks,Miami Heat
-Terry Rozier,Points Rebounds Assists,19.2,Over,BetOnline.ag,-122,17.5,1.6999999999999993,Yes,8.9%,Milwaukee Bucks,Miami Heat
+Payton Pritchard,Points Rebounds Assists,21.0,Over,FanDuel,-102,18.5,2.5,Yes,11.9%,Los Angeles Lakers,Boston Celtics
+Trayce Jackson-Davis,Points,7.1,Under,FanDuel,102,9.5,2.4000000000000004,Yes,33.8%,Golden State Warriors,Chicago Bulls
+Payton Pritchard,Points,13.9,Over,BetOnline.ag,100,11.5,2.4000000000000004,Yes,17.3%,Los Angeles Lakers,Boston Celtics
+Norman Powell,Points,23.8,Over,BetRivers,100,21.5,2.3000000000000007,Yes,9.7%,Los Angeles Clippers,Washington Wizards
+Derrick White,Points Rebounds Assists,22.6,Over,DraftKings,-105,20.5,2.1000000000000014,Yes,9.3%,Los Angeles Lakers,Boston Celtics
+Jaxson Hayes,Points Rebounds Assists,9.600000000000001,Over,Caesars,-121,7.5,2.1000000000000014,Yes,21.9%,Los Angeles Lakers,Boston Celtics
+Josh Giddey,Points,9.5,Under,BetRivers,110,11.5,2.0,Yes,21.1%,Golden State Warriors,Chicago Bulls
+Sam Hauser,Points,7.5,Over,FanDuel,-105,5.5,2.0,Yes,26.7%,Los Angeles Lakers,Boston Celtics
+Sam Hauser,Points Rebounds Assists,11.5,Over,BetMGM,100,9.5,2.0,Yes,17.4%,Los Angeles Lakers,Boston Celtics
+Derrick Jones,Points,12.5,Over,BetRivers,120,10.5,2.0,Yes,16.0%,Los Angeles Clippers,Washington Wizards
+Al Horford,Points,7.4,Over,BetMGM,105,5.5,1.9000000000000004,Yes,25.7%,Los Angeles Lakers,Boston Celtics
+Kawhi Leonard,Rebounds,2.6,Under,Caesars,-137,4.5,1.9,Yes,73.1%,Los Angeles Clippers,Washington Wizards
+Kyshawn George,Points,9.3,Over,Caesars,-106,7.5,1.8000000000000007,Yes,19.4%,Los Angeles Clippers,Washington Wizards
+Jaxson Hayes,Points,5.2,Over,Caesars,-142,3.5,1.7000000000000002,Yes,32.7%,Los Angeles Lakers,Boston Celtics
+Stephen Curry,Points,22.8,Under,BetRivers,104,24.5,1.6999999999999993,Yes,7.5%,Golden State Warriors,Chicago Bulls
 Kyshawn George,Points Rebounds Assists,15.2,Over,DraftKings,-110,13.5,1.6999999999999993,Yes,11.2%,Los Angeles Clippers,Washington Wizards
-Josh Giddey,Points Rebounds Assists,23.9,Under,FanDuel,100,25.5,1.6000000000000014,Yes,6.7%,Golden State Warriors,Chicago Bulls
-Nikola Vucevic,Points Rebounds Assists,36.1,Over,BetMGM,-105,34.5,1.6000000000000014,Yes,4.4%,Golden State Warriors,Chicago Bulls
-Rui Hachimura,Points,13.1,Over,BetRivers,118,11.5,1.5999999999999996,Yes,12.2%,Los Angeles Lakers,Boston Celtics
-Malik Monk,Points Rebounds Assists,30.099999999999998,Over,FanDuel,-113,28.5,1.5999999999999979,Yes,5.3%,Denver Nuggets,Sacramento Kings
-Keegan Murray,Points Rebounds Assists,20.099999999999998,Over,BetOnline.ag,-105,18.5,1.5999999999999979,Yes,8.0%,Denver Nuggets,Sacramento Kings
-Franz Wagner,Rebounds,6.0,Over,FanDuel,138,4.5,1.5,Yes,25.0%,Orlando Magic,Portland Trail Blazers
-Wendell Carter Jr,Points,10.0,Under,FanDuel,-104,11.5,1.5,Yes,15.0%,Orlando Magic,Portland Trail Blazers
-Nikola Jokic,Points,25.0,Under,BetRivers,110,26.5,1.5,Yes,6.0%,Denver Nuggets,Sacramento Kings
-Moses Moody,Points,9.0,Under,DraftKings,-115,10.5,1.5,Yes,16.7%,Golden State Warriors,Chicago Bulls
-Caleb Houstan,Points Rebounds Assists,6.000000000000001,Under,BetMGM,-105,7.5,1.4999999999999991,Yes,25.0%,Orlando Magic,Portland Trail Blazers
-Jordan Poole,Points Rebounds Assists,28.999999999999996,Over,BetRivers,-108,27.5,1.4999999999999964,Yes,5.2%,Los Angeles Clippers,Washington Wizards
-Kentavious Caldwell-Pope,Points Rebounds Assists,13.1,Under,DraftKings,-105,14.5,1.4000000000000004,Yes,10.7%,Orlando Magic,Portland Trail Blazers
-Daniel Gafford,Rebounds,8.1,Under,Caesars,104,9.5,1.4000000000000004,Yes,17.3%,Oklahoma City Thunder,Dallas Mavericks
-De'Aaron Fox,Rebounds,5.9,Over,BetMGM,105,4.5,1.4000000000000004,Yes,23.7%,Denver Nuggets,Sacramento Kings
-Jalen Smith,Points Rebounds Assists,13.1,Under,DraftKings,-110,14.5,1.4000000000000004,Yes,10.7%,Golden State Warriors,Chicago Bulls
-Nikola Jovic,Points Rebounds Assists,19.1,Under,BetMGM,-105,20.5,1.3999999999999986,Yes,7.3%,Milwaukee Bucks,Miami Heat
-Austin Reaves,Points Rebounds Assists,28.800000000000004,Over,BetRivers,-106,27.5,1.3000000000000043,Yes,4.5%,Los Angeles Lakers,Boston Celtics
-Wendell Carter Jr,Rebounds,8.2,Under,BetRivers,-106,9.5,1.3000000000000007,Yes,15.9%,Orlando Magic,Portland Trail Blazers
-Spencer Dinwiddie,Points Rebounds Assists,17.2,Under,DraftKings,-115,18.5,1.3000000000000007,Yes,7.6%,Oklahoma City Thunder,Dallas Mavericks
-Aaron Wiggins,Points,9.2,Under,DraftKings,-120,10.5,1.3000000000000007,Yes,14.1%,Oklahoma City Thunder,Dallas Mavericks
-Tyler Herro,Points,25.8,Over,BetRivers,108,24.5,1.3000000000000007,Yes,5.0%,Milwaukee Bucks,Miami Heat
-Gary Trent Jr,Points,9.8,Over,FanDuel,-105,8.5,1.3000000000000007,Yes,13.3%,Milwaukee Bucks,Miami Heat
-Norman Powell,Points,23.8,Over,BetRivers,120,22.5,1.3000000000000007,Yes,5.5%,Los Angeles Clippers,Washington Wizards
-Shaedon Sharpe,Assists,2.8,Over,BetMGM,-115,1.5,1.2999999999999998,Yes,46.4%,Orlando Magic,Portland Trail Blazers
-Quentin Grimes,Assists,2.2,Under,BetMGM,-110,3.5,1.2999999999999998,Yes,59.1%,Oklahoma City Thunder,Dallas Mavericks
+Josh Giddey,Points Rebounds Assists,23.9,Under,FanDuel,-106,25.5,1.6000000000000014,Yes,6.7%,Golden State Warriors,Chicago Bulls
+Rui Hachimura,Points,13.1,Over,BetRivers,120,11.5,1.5999999999999996,Yes,12.2%,Los Angeles Lakers,Boston Celtics
+Moses Moody,Points Rebounds Assists,13.0,Under,DraftKings,-115,14.5,1.5,Yes,11.5%,Golden State Warriors,Chicago Bulls
+Jordan Poole,Points Rebounds Assists,28.999999999999996,Over,BetRivers,-110,27.5,1.4999999999999964,Yes,5.2%,Los Angeles Clippers,Washington Wizards
+Jalen Smith,Points Rebounds Assists,13.1,Under,DraftKings,-105,14.5,1.4000000000000004,Yes,10.7%,Golden State Warriors,Chicago Bulls
+Dennis Schroder,Points Rebounds Assists,19.9,Over,DraftKings,-105,18.5,1.3999999999999986,Yes,7.0%,Golden State Warriors,Chicago Bulls
+Austin Reaves,Points Rebounds Assists,28.800000000000004,Over,BetRivers,-105,27.5,1.3000000000000043,Yes,4.5%,Los Angeles Lakers,Boston Celtics
+Nicolas Batum,Points Rebounds Assists,7.199999999999999,Under,BetMGM,-130,8.5,1.3000000000000007,Yes,18.1%,Los Angeles Clippers,Washington Wizards
 LeBron James,Points Rebounds Assists,39.8,Over,Caesars,-109,38.5,1.2999999999999972,Yes,3.3%,Los Angeles Lakers,Boston Celtics
-Quentin Grimes,Rebounds,3.3,Under,DraftKings,110,4.5,1.2000000000000002,Yes,36.4%,Oklahoma City Thunder,Dallas Mavericks
-Keegan Murray,Rebounds,6.7,Over,BetMGM,-120,5.5,1.2000000000000002,Yes,17.9%,Denver Nuggets,Sacramento Kings
-Stephen Curry,Rebounds,4.3,Under,Caesars,-113,5.5,1.2000000000000002,Yes,27.9%,Golden State Warriors,Chicago Bulls
 Kyshawn George,Assists,2.7,Over,Caesars,-160,1.5,1.2000000000000002,Yes,44.4%,Los Angeles Clippers,Washington Wizards
-Davion Mitchell,Points Rebounds Assists,12.3,Under,DraftKings,-120,13.5,1.1999999999999993,Yes,9.8%,Atlanta Hawks,Toronto Raptors
-Jalen Johnson,Points,17.3,Under,BetRivers,112,18.5,1.1999999999999993,Yes,6.9%,Atlanta Hawks,Toronto Raptors
-Scottie Barnes,Points,18.3,Under,BetRivers,102,19.5,1.1999999999999993,Yes,6.6%,Atlanta Hawks,Toronto Raptors
-Dyson Daniels,Points,14.7,Over,Caesars,112,13.5,1.1999999999999993,Yes,8.2%,Atlanta Hawks,Toronto Raptors
-Jakob Poeltl,Points Rebounds Assists,25.3,Under,Caesars,-109,26.5,1.1999999999999993,Yes,4.7%,Atlanta Hawks,Toronto Raptors
-Jaime Jaquez Jr,Points Rebounds Assists,17.3,Under,BetMGM,-110,18.5,1.1999999999999993,Yes,6.9%,Milwaukee Bucks,Miami Heat
-Bobby Portis,Points Rebounds Assists,20.7,Over,DraftKings,-120,19.5,1.1999999999999993,Yes,5.8%,Milwaukee Bucks,Miami Heat
-Nikola Jokic,Rebounds,13.7,Over,Caesars,108,12.5,1.1999999999999993,Yes,8.8%,Denver Nuggets,Sacramento Kings
-Malik Monk,Points,19.7,Over,Caesars,-117,18.5,1.1999999999999993,Yes,6.1%,Denver Nuggets,Sacramento Kings
-Paolo Banchero,Points Rebounds Assists,34.300000000000004,Under,FanDuel,-104,35.5,1.1999999999999957,Yes,3.5%,Orlando Magic,Portland Trail Blazers
-Trae Young,Points Rebounds Assists,37.4,Under,BetRivers,-104,38.5,1.1000000000000014,Yes,2.9%,Atlanta Hawks,Toronto Raptors
-Scottie Barnes,Points Rebounds Assists,33.4,Under,Bovada,105,34.5,1.1000000000000014,Yes,3.3%,Atlanta Hawks,Toronto Raptors
-Jrue Holiday,Points Rebounds Assists,18.6,Over,BetMGM,-105,17.5,1.1000000000000014,Yes,5.9%,Los Angeles Lakers,Boston Celtics
-Austin Reaves,Points,18.6,Over,BetRivers,110,17.5,1.1000000000000014,Yes,5.9%,Los Angeles Lakers,Boston Celtics
-Bam Adebayo,Rebounds,9.6,Over,FanDuel,-110,8.5,1.0999999999999996,Yes,11.5%,Milwaukee Bucks,Miami Heat
-Domantas Sabonis,Rebounds,14.6,Over,Bovada,100,13.5,1.0999999999999996,Yes,7.5%,Denver Nuggets,Sacramento Kings
-Christian Braun,Rebounds,4.6,Over,BetMGM,-115,3.5,1.0999999999999996,Yes,23.9%,Denver Nuggets,Sacramento Kings
+Derrick White,Points,14.7,Over,BetRivers,-103,13.5,1.1999999999999993,Yes,8.2%,Los Angeles Lakers,Boston Celtics
+Jrue Holiday,Points Rebounds Assists,18.6,Over,FanDuel,100,17.5,1.1000000000000014,Yes,5.9%,Los Angeles Lakers,Boston Celtics
+Austin Reaves,Points,18.6,Over,BetRivers,112,17.5,1.1000000000000014,Yes,5.9%,Los Angeles Lakers,Boston Celtics
 Amir Coffey,Points Rebounds Assists,15.6,Over,Caesars,104,14.5,1.0999999999999996,Yes,7.1%,Los Angeles Clippers,Washington Wizards
-Paolo Banchero,Points,22.5,Under,FanDuel,-110,23.5,1.0,Yes,4.4%,Orlando Magic,Portland Trail Blazers
-Kentavious Caldwell-Pope,Points,9.5,Under,Bovada,-110,10.5,1.0,Yes,10.5%,Orlando Magic,Portland Trail Blazers
-Dyson Daniels,Rebounds,5.5,Over,FanDuel,-144,4.5,1.0,Yes,18.2%,Atlanta Hawks,Toronto Raptors
-Dyson Daniels,Points Rebounds Assists,23.5,Over,Bovada,115,22.5,1.0,Yes,4.3%,Atlanta Hawks,Toronto Raptors
-Onyeka Okongwu,Points,13.5,Under,FanDuel,-120,14.5,1.0,Yes,7.4%,Atlanta Hawks,Toronto Raptors
-Cason Wallace,Points Rebounds Assists,16.5,Over,DraftKings,-110,15.5,1.0,Yes,6.1%,Oklahoma City Thunder,Dallas Mavericks
-Alex Caruso,Rebounds,2.5,Under,BetOnline.ag,-156,3.5,1.0,Yes,40.0%,Oklahoma City Thunder,Dallas Mavericks
-P.J. Washington,Assists,2.5,Over,BetMGM,-175,1.5,1.0,Yes,40.0%,Oklahoma City Thunder,Dallas Mavericks
-P.J. Washington,Points Rebounds Assists,25.5,Over,Caesars,-125,24.5,1.0,Yes,3.9%,Oklahoma City Thunder,Dallas Mavericks
-Bam Adebayo,Points,13.5,Under,Caesars,-117,14.5,1.0,Yes,7.4%,Milwaukee Bucks,Miami Heat
-Nikola Jokic,Points Rebounds Assists,48.5,Under,BetMGM,100,49.5,1.0,Yes,2.1%,Denver Nuggets,Sacramento Kings
-Russell Westbrook,Points,12.5,Under,BetRivers,-141,13.5,1.0,Yes,8.0%,Denver Nuggets,Sacramento Kings
-De'Aaron Fox,Assists,6.5,Over,Bovada,-150,5.5,1.0,Yes,15.4%,Denver Nuggets,Sacramento Kings
-Julian Strawther,Points,10.5,Over,DraftKings,100,9.5,1.0,Yes,9.5%,Denver Nuggets,Sacramento Kings
-Jrue Holiday,Points,10.5,Over,FanDuel,-105,9.5,1.0,Yes,9.5%,Los Angeles Lakers,Boston Celtics
-Kristaps Porzingis,Points Rebounds Assists,28.5,Over,DraftKings,-125,27.5,1.0,Yes,3.5%,Los Angeles Lakers,Boston Celtics
-Rui Hachimura,Rebounds,5.5,Over,DraftKings,114,4.5,1.0,Yes,18.2%,Los Angeles Lakers,Boston Celtics
-Josh Giddey,Points,9.5,Under,BetRivers,116,10.5,1.0,Yes,10.5%,Golden State Warriors,Chicago Bulls
-Dennis Schroder,Assists,4.5,Under,BetRivers,-124,5.5,1.0,Yes,22.2%,Golden State Warriors,Chicago Bulls
-Nikola Vucevic,Rebounds,11.5,Over,DraftKings,-110,10.5,1.0,Yes,8.7%,Golden State Warriors,Chicago Bulls
-Kyle Kuzma,Points,14.5,Under,Caesars,-117,15.5,1.0,Yes,6.9%,Los Angeles Clippers,Washington Wizards
+Nikola Vucevic,Rebounds,11.5,Over,DraftKings,-115,10.5,1.0,Yes,8.7%,Golden State Warriors,Chicago Bulls
+Jrue Holiday,Points,10.5,Over,DraftKings,100,9.5,1.0,Yes,9.5%,Los Angeles Lakers,Boston Celtics
+Kristaps Porzingis,Points Rebounds Assists,28.5,Over,Caesars,-109,27.5,1.0,Yes,3.5%,Los Angeles Lakers,Boston Celtics
+Rui Hachimura,Rebounds,5.5,Over,DraftKings,124,4.5,1.0,Yes,18.2%,Los Angeles Lakers,Boston Celtics
+Kyle Kuzma,Points,14.5,Under,BetRivers,-115,15.5,1.0,Yes,6.9%,Los Angeles Clippers,Washington Wizards
 Kyle Kuzma,Assists,3.5,Over,DraftKings,-154,2.5,1.0,Yes,28.6%,Los Angeles Clippers,Washington Wizards
 Jonas Valanciunas,Rebounds,8.5,Over,BetMGM,-105,7.5,1.0,Yes,11.8%,Los Angeles Clippers,Washington Wizards
-Jalen Williams,Points Rebounds Assists,30.599999999999998,Under,FanDuel,-106,31.5,0.9000000000000021,Yes,2.9%,Oklahoma City Thunder,Dallas Mavericks
-Toumani Camara,Points,9.4,Over,BetOnline.ag,-114,8.5,0.9000000000000004,Yes,9.6%,Orlando Magic,Portland Trail Blazers
-Toumani Camara,Rebounds,5.4,Over,DraftKings,-154,4.5,0.9000000000000004,Yes,16.7%,Orlando Magic,Portland Trail Blazers
-Trae Young,Assists,9.6,Under,BetMGM,-105,10.5,0.9000000000000004,Yes,9.4%,Atlanta Hawks,Toronto Raptors
-Onyeka Okongwu,Rebounds,10.4,Over,BetRivers,-117,9.5,0.9000000000000004,Yes,8.7%,Atlanta Hawks,Toronto Raptors
-Cason Wallace,Points,9.4,Over,DraftKings,-120,8.5,0.9000000000000004,Yes,9.6%,Oklahoma City Thunder,Dallas Mavericks
-Cason Wallace,Rebounds,4.4,Over,DraftKings,-140,3.5,0.9000000000000004,Yes,20.5%,Oklahoma City Thunder,Dallas Mavericks
-Daniel Gafford,Points,15.4,Over,FanDuel,-112,14.5,0.9000000000000004,Yes,5.8%,Oklahoma City Thunder,Dallas Mavericks
-P.J. Washington,Rebounds,8.4,Over,BetRivers,-113,7.5,0.9000000000000004,Yes,10.7%,Oklahoma City Thunder,Dallas Mavericks
-Kel'el Ware,Rebounds,7.6,Under,DraftKings,110,8.5,0.9000000000000004,Yes,11.8%,Milwaukee Bucks,Miami Heat
-Taurean Prince,Points,7.4,Over,BetOnline.ag,-108,6.5,0.9000000000000004,Yes,12.2%,Milwaukee Bucks,Miami Heat
-Aaron Gordon,Rebounds,4.4,Over,BetMGM,-135,3.5,0.9000000000000004,Yes,20.5%,Denver Nuggets,Sacramento Kings
-Trey Lyles,Rebounds,4.4,Over,FanDuel,-154,3.5,0.9000000000000004,Yes,20.5%,Denver Nuggets,Sacramento Kings
+Nicolas Batum,Points,2.5,Under,Caesars,-148,3.5,1.0,Yes,40.0%,Los Angeles Clippers,Washington Wizards
+Buddy Hield,Points,11.6,Under,BetRivers,-104,12.5,0.9000000000000004,Yes,7.8%,Golden State Warriors,Chicago Bulls
 Derrick White,Rebounds,4.4,Over,BetRivers,-112,3.5,0.9000000000000004,Yes,20.5%,Los Angeles Lakers,Boston Celtics
-LeBron James,Assists,9.4,Over,FanDuel,-114,8.5,0.9000000000000004,Yes,9.6%,Los Angeles Lakers,Boston Celtics
-Buddy Hield,Points,11.6,Under,BetRivers,107,12.5,0.9000000000000004,Yes,7.8%,Golden State Warriors,Chicago Bulls
+LeBron James,Assists,9.4,Over,FanDuel,-112,8.5,0.9000000000000004,Yes,9.6%,Los Angeles Lakers,Boston Celtics
 Carlton Carrington,Points,8.4,Over,BetRivers,-165,7.5,0.9000000000000004,Yes,10.7%,Los Angeles Clippers,Washington Wizards
-Kawhi Leonard,Points,13.6,Under,BetRivers,118,14.5,0.9000000000000004,Yes,6.6%,Los Angeles Clippers,Washington Wizards
-Amir Coffey,Points,11.4,Over,BetRivers,108,10.5,0.9000000000000004,Yes,7.9%,Los Angeles Clippers,Washington Wizards
-Onyeka Okongwu,Assists,2.4,Over,BetMGM,-175,1.5,0.8999999999999999,Yes,37.5%,Atlanta Hawks,Toronto Raptors
-Brook Lopez,Assists,2.4,Over,Caesars,-137,1.5,0.8999999999999999,Yes,37.5%,Milwaukee Bucks,Miami Heat
-Keegan Murray,Assists,1.4,Over,BetMGM,-200,0.5,0.8999999999999999,Yes,64.3%,Denver Nuggets,Sacramento Kings
+Kawhi Leonard,Points,13.6,Under,BetRivers,115,14.5,0.9000000000000004,Yes,6.6%,Los Angeles Clippers,Washington Wizards
+Amir Coffey,Points,11.4,Over,BetRivers,112,10.5,0.9000000000000004,Yes,7.9%,Los Angeles Clippers,Washington Wizards
 Buddy Hield,Rebounds,2.6,Under,FanDuel,112,3.5,0.8999999999999999,Yes,34.6%,Golden State Warriors,Chicago Bulls
-Deni Avdija,Points Rebounds Assists,27.4,Over,Caesars,-109,26.5,0.8999999999999986,Yes,3.3%,Orlando Magic,Portland Trail Blazers
-Kyrie Irving,Points,24.4,Over,FanDuel,-104,23.5,0.8999999999999986,Yes,3.7%,Oklahoma City Thunder,Dallas Mavericks
-Brook Lopez,Points Rebounds Assists,19.4,Over,DraftKings,100,18.5,0.8999999999999986,Yes,4.6%,Milwaukee Bucks,Miami Heat
-Jamal Murray,Points,22.4,Over,BetRivers,107,21.5,0.8999999999999986,Yes,4.0%,Denver Nuggets,Sacramento Kings
-LeBron James,Points,23.4,Over,BetRivers,-106,22.5,0.8999999999999986,Yes,3.8%,Los Angeles Lakers,Boston Celtics
-Kristaps Porzingis,Points,19.4,Over,BetRivers,102,18.5,0.8999999999999986,Yes,4.6%,Los Angeles Lakers,Boston Celtics
-Tristan da Silva,Points Rebounds Assists,12.3,Over,BetMGM,-130,11.5,0.8000000000000007,Yes,6.5%,Orlando Magic,Portland Trail Blazers
-Jalen Johnson,Rebounds,9.7,Under,BetRivers,-130,10.5,0.8000000000000007,Yes,8.2%,Atlanta Hawks,Toronto Raptors
-Bam Adebayo,Points Rebounds Assists,27.3,Over,FanDuel,-122,26.5,0.8000000000000007,Yes,2.9%,Milwaukee Bucks,Miami Heat
-Dennis Schroder,Points,13.3,Over,FanDuel,104,12.5,0.8000000000000007,Yes,6.0%,Golden State Warriors,Chicago Bulls
-Patrick Williams,Points,9.3,Over,BetRivers,-139,8.5,0.8000000000000007,Yes,8.6%,Golden State Warriors,Chicago Bulls
-Ivica Zubac,Rebounds,12.7,Under,Caesars,-117,13.5,0.8000000000000007,Yes,6.3%,Los Angeles Clippers,Washington Wizards
+Buddy Hield,Assists,1.6,Under,Caesars,-160,2.5,0.8999999999999999,Yes,56.2%,Golden State Warriors,Chicago Bulls
+Moses Moody,Rebounds,2.6,Under,DraftKings,-130,3.5,0.8999999999999999,Yes,34.6%,Golden State Warriors,Chicago Bulls
+LeBron James,Points,23.4,Over,BetRivers,-104,22.5,0.8999999999999986,Yes,3.8%,Los Angeles Lakers,Boston Celtics
+Kristaps Porzingis,Points,19.4,Over,FanDuel,102,18.5,0.8999999999999986,Yes,4.6%,Los Angeles Lakers,Boston Celtics
+Dennis Schroder,Points,13.3,Over,BetRivers,120,12.5,0.8000000000000007,Yes,6.0%,Golden State Warriors,Chicago Bulls
+Patrick Williams,Points,9.3,Over,BetRivers,-132,8.5,0.8000000000000007,Yes,8.6%,Golden State Warriors,Chicago Bulls
+Ivica Zubac,Rebounds,12.7,Under,BetRivers,-121,13.5,0.8000000000000007,Yes,6.3%,Los Angeles Clippers,Washington Wizards
 Jonas Valanciunas,Points,11.3,Over,FanDuel,108,10.5,0.8000000000000007,Yes,7.1%,Los Angeles Clippers,Washington Wizards
-Corey Kispert,Points,11.3,Over,FanDuel,-110,10.5,0.8000000000000007,Yes,7.1%,Los Angeles Clippers,Washington Wizards
-Jonathan Isaac,Points,7.3,Over,Caesars,-117,6.5,0.7999999999999998,Yes,11.0%,Orlando Magic,Portland Trail Blazers
-Caleb Houstan,Points,3.7,Under,BetMGM,-105,4.5,0.7999999999999998,Yes,21.6%,Orlando Magic,Portland Trail Blazers
-Jamal Shead,Assists,2.7,Under,BetMGM,-130,3.5,0.7999999999999998,Yes,29.6%,Atlanta Hawks,Toronto Raptors
-Khris Middleton,Assists,5.3,Over,FanDuel,-106,4.5,0.7999999999999998,Yes,15.1%,Milwaukee Bucks,Miami Heat
-Michael Porter Jr,Rebounds,6.3,Over,DraftKings,-105,5.5,0.7999999999999998,Yes,12.7%,Denver Nuggets,Sacramento Kings
+Corey Kispert,Points,11.3,Over,Bovada,-105,10.5,0.8000000000000007,Yes,7.1%,Los Angeles Clippers,Washington Wizards
+Gary Payton II,Rebounds,3.3,Over,BetMGM,-145,2.5,0.7999999999999998,Yes,24.2%,Golden State Warriors,Chicago Bulls
 Jonas Valanciunas,Assists,2.3,Over,Caesars,-154,1.5,0.7999999999999998,Yes,34.8%,Los Angeles Clippers,Washington Wizards
-Onyeka Okongwu,Points Rebounds Assists,26.299999999999997,Over,DraftKings,-125,25.5,0.7999999999999972,Yes,3.0%,Atlanta Hawks,Toronto Raptors
-De'Aaron Fox,Points Rebounds Assists,34.3,Over,FanDuel,-113,33.5,0.7999999999999972,Yes,2.3%,Denver Nuggets,Sacramento Kings
-Jaylen Brown,Points Rebounds Assists,32.2,Over,Bovada,115,31.5,0.7000000000000028,Yes,2.2%,Los Angeles Lakers,Boston Celtics
-Shaedon Sharpe,Rebounds,4.2,Over,BetOnline.ag,-143,3.5,0.7000000000000002,Yes,16.7%,Orlando Magic,Portland Trail Blazers
-Gradey Dick,Assists,2.2,Over,Caesars,-117,1.5,0.7000000000000002,Yes,31.8%,Atlanta Hawks,Toronto Raptors
-Jamal Shead,Points,6.2,Over,Caesars,-109,5.5,0.7000000000000002,Yes,11.3%,Atlanta Hawks,Toronto Raptors
-Luguentz Dort,Assists,2.2,Over,BetMGM,-120,1.5,0.7000000000000002,Yes,31.8%,Oklahoma City Thunder,Dallas Mavericks
-Nikola Jovic,Assists,4.2,Over,FanDuel,-122,3.5,0.7000000000000002,Yes,16.7%,Milwaukee Bucks,Miami Heat
-Bam Adebayo,Assists,4.2,Over,Bovada,-120,3.5,0.7000000000000002,Yes,16.7%,Milwaukee Bucks,Miami Heat
-Terry Rozier,Assists,3.2,Over,BetOnline.ag,-119,2.5,0.7000000000000002,Yes,21.9%,Milwaukee Bucks,Miami Heat
-Domantas Sabonis,Assists,6.2,Over,FanDuel,-150,5.5,0.7000000000000002,Yes,11.3%,Denver Nuggets,Sacramento Kings
-Keon Ellis,Rebounds,2.2,Over,Caesars,-184,1.5,0.7000000000000002,Yes,31.8%,Denver Nuggets,Sacramento Kings
+Jaylen Brown,Points Rebounds Assists,32.2,Over,Bovada,110,31.5,0.7000000000000028,Yes,2.2%,Los Angeles Lakers,Boston Celtics
 Jordan Poole,Assists,4.2,Over,Bovada,-160,3.5,0.7000000000000002,Yes,16.7%,Los Angeles Clippers,Washington Wizards
-Carlton Carrington,Rebounds,4.2,Over,BetOnline.ag,-137,3.5,0.7000000000000002,Yes,16.7%,Los Angeles Clippers,Washington Wizards
-Olivier-Maxence Prosper,Assists,0.8,Under,BetMGM,110,1.5,0.7,Yes,87.5%,Oklahoma City Thunder,Dallas Mavericks
-Kel'el Ware,Assists,0.8,Under,BetMGM,-200,1.5,0.7,Yes,87.5%,Milwaukee Bucks,Miami Heat
-Gary Trent Jr,Assists,1.2,Over,BetMGM,-165,0.5,0.7,Yes,58.3%,Milwaukee Bucks,Miami Heat
+Carlton Carrington,Rebounds,4.2,Over,BetRivers,-137,3.5,0.7000000000000002,Yes,16.7%,Los Angeles Clippers,Washington Wizards
 Dorian Finney-Smith,Assists,1.2,Over,BetMGM,-225,0.5,0.7,Yes,58.3%,Los Angeles Lakers,Boston Celtics
-Anfernee Simons,Points Rebounds Assists,23.8,Under,DraftKings,-105,24.5,0.6999999999999993,Yes,2.9%,Orlando Magic,Portland Trail Blazers
-Scottie Barnes,Rebounds,8.2,Over,FanDuel,-124,7.5,0.6999999999999993,Yes,8.5%,Atlanta Hawks,Toronto Raptors
-Jamal Shead,Points Rebounds Assists,9.8,Under,BetMGM,-105,10.5,0.6999999999999993,Yes,7.1%,Atlanta Hawks,Toronto Raptors
-Luguentz Dort,Points,10.2,Over,BetRivers,-150,9.5,0.6999999999999993,Yes,6.9%,Oklahoma City Thunder,Dallas Mavericks
-Damian Lillard,Points,25.2,Over,BetRivers,102,24.5,0.6999999999999993,Yes,2.8%,Milwaukee Bucks,Miami Heat
-Jaime Jaquez Jr,Points,9.8,Under,BetOnline.ag,-115,10.5,0.6999999999999993,Yes,7.1%,Milwaukee Bucks,Miami Heat
-Jaylen Brown,Points,21.2,Over,FanDuel,-102,20.5,0.6999999999999993,Yes,3.3%,Los Angeles Lakers,Boston Celtics
-Anthony Davis,Rebounds,12.2,Over,DraftKings,-115,11.5,0.6999999999999993,Yes,5.7%,Los Angeles Lakers,Boston Celtics
+Gary Payton II,Points Rebounds Assists,10.2,Over,BetMGM,-120,9.5,0.6999999999999993,Yes,6.9%,Golden State Warriors,Chicago Bulls
+Jaylen Brown,Points,21.2,Over,FanDuel,102,20.5,0.6999999999999993,Yes,3.3%,Los Angeles Lakers,Boston Celtics
+Anthony Davis,Rebounds,12.2,Over,BetMGM,-115,11.5,0.6999999999999993,Yes,5.7%,Los Angeles Lakers,Boston Celtics
 Jayson Tatum,Points,25.2,Over,FanDuel,-118,24.5,0.6999999999999993,Yes,2.8%,Los Angeles Lakers,Boston Celtics
 Max Christie,Points Rebounds Assists,12.8,Under,BetOnline.ag,-103,13.5,0.6999999999999993,Yes,5.5%,Los Angeles Lakers,Boston Celtics
-Coby White,Points Rebounds Assists,25.2,Over,BetMGM,-115,24.5,0.6999999999999993,Yes,2.8%,Golden State Warriors,Chicago Bulls
-Anthony Davis,Points Rebounds Assists,40.199999999999996,Over,BetOnline.ag,-116,39.5,0.6999999999999957,Yes,1.7%,Los Angeles Lakers,Boston Celtics
-Anthony Black,Points Rebounds Assists,18.9,Under,BetOnline.ag,-118,19.5,0.6000000000000014,Yes,3.2%,Orlando Magic,Portland Trail Blazers
-De'Aaron Fox,Points,21.9,Under,BetRivers,104,22.5,0.6000000000000014,Yes,2.7%,Denver Nuggets,Sacramento Kings
-Zach LaVine,Points,24.1,Over,BetRivers,-162,23.5,0.6000000000000014,Yes,2.5%,Golden State Warriors,Chicago Bulls
-Coby White,Points,17.1,Over,Caesars,-125,16.5,0.6000000000000014,Yes,3.5%,Golden State Warriors,Chicago Bulls
-James Harden,Points,21.1,Over,FanDuel,-110,20.5,0.6000000000000014,Yes,2.8%,Los Angeles Clippers,Washington Wizards
+Anthony Davis,Points Rebounds Assists,40.199999999999996,Over,BetOnline.ag,-114,39.5,0.6999999999999957,Yes,1.7%,Los Angeles Lakers,Boston Celtics
+Zach LaVine,Points,24.1,Over,BetRivers,-155,23.5,0.6000000000000014,Yes,2.5%,Golden State Warriors,Chicago Bulls
+Nikola Vucevic,Points Rebounds Assists,36.1,Over,DraftKings,-105,35.5,0.6000000000000014,Yes,1.7%,Golden State Warriors,Chicago Bulls
+James Harden,Points,21.1,Over,BetRivers,-108,20.5,0.6000000000000014,Yes,2.8%,Los Angeles Clippers,Washington Wizards
 Kyle Kuzma,Points Rebounds Assists,23.9,Under,BetOnline.ag,-119,24.5,0.6000000000000014,Yes,2.5%,Los Angeles Clippers,Washington Wizards
 Corey Kispert,Points Rebounds Assists,16.1,Over,DraftKings,-105,15.5,0.6000000000000014,Yes,3.7%,Los Angeles Clippers,Washington Wizards
-Toumani Camara,Assists,2.1,Over,BetMGM,105,1.5,0.6000000000000001,Yes,28.6%,Orlando Magic,Portland Trail Blazers
-Trae Young,Rebounds,3.1,Over,FanDuel,-154,2.5,0.6000000000000001,Yes,19.4%,Atlanta Hawks,Toronto Raptors
-Luguentz Dort,Rebounds,3.9,Under,DraftKings,-125,4.5,0.6000000000000001,Yes,15.4%,Oklahoma City Thunder,Dallas Mavericks
-Nikola Jovic,Rebounds,3.9,Under,BetMGM,115,4.5,0.6000000000000001,Yes,15.4%,Milwaukee Bucks,Miami Heat
-Jaime Jaquez Jr,Assists,2.9,Under,BetOnline.ag,-125,3.5,0.6000000000000001,Yes,20.7%,Milwaukee Bucks,Miami Heat
-Julian Strawther,Rebounds,2.1,Over,Caesars,-184,1.5,0.6000000000000001,Yes,28.6%,Denver Nuggets,Sacramento Kings
+Sam Hauser,Rebounds,3.1,Over,BetMGM,-105,2.5,0.6000000000000001,Yes,19.4%,Los Angeles Lakers,Boston Celtics
 Dorian Finney-Smith,Rebounds,3.1,Over,DraftKings,-166,2.5,0.6000000000000001,Yes,19.4%,Los Angeles Lakers,Boston Celtics
-Corey Kispert,Rebounds,3.1,Over,Caesars,-137,2.5,0.6000000000000001,Yes,19.4%,Los Angeles Clippers,Washington Wizards
-Jamal Shead,Rebounds,0.9,Under,BetMGM,-165,1.5,0.6,Yes,66.7%,Atlanta Hawks,Toronto Raptors
-Deni Avdija,Rebounds,8.1,Over,FanDuel,110,7.5,0.5999999999999996,Yes,7.4%,Orlando Magic,Portland Trail Blazers
-Jonathan Isaac,Rebounds,4.9,Under,Caesars,-121,5.5,0.5999999999999996,Yes,12.2%,Orlando Magic,Portland Trail Blazers
-Jalen Johnson,Assists,4.1,Over,Caesars,-160,3.5,0.5999999999999996,Yes,14.6%,Atlanta Hawks,Toronto Raptors
-Vit Krejci,Points,8.1,Over,DraftKings,-125,7.5,0.5999999999999996,Yes,7.4%,Atlanta Hawks,Toronto Raptors
-Vit Krejci,Points Rebounds Assists,13.9,Under,Bovada,-110,14.5,0.5999999999999996,Yes,4.3%,Atlanta Hawks,Toronto Raptors
-Jaylin Williams,Rebounds,4.9,Under,BetRivers,117,5.5,0.5999999999999996,Yes,12.2%,Oklahoma City Thunder,Dallas Mavericks
-Tyler Herro,Assists,5.1,Over,DraftKings,-154,4.5,0.5999999999999996,Yes,11.8%,Milwaukee Bucks,Miami Heat
-Terry Rozier,Rebounds,4.1,Over,BetOnline.ag,128,3.5,0.5999999999999996,Yes,14.6%,Milwaukee Bucks,Miami Heat
-Brook Lopez,Points,12.1,Over,FanDuel,-104,11.5,0.5999999999999996,Yes,5.0%,Milwaukee Bucks,Miami Heat
-Jamal Murray,Rebounds,4.1,Over,BetMGM,105,3.5,0.5999999999999996,Yes,14.6%,Denver Nuggets,Sacramento Kings
-DeMar DeRozan,Rebounds,4.1,Over,FanDuel,110,3.5,0.5999999999999996,Yes,14.6%,Denver Nuggets,Sacramento Kings
-Trey Lyles,Points,6.1,Over,Caesars,-137,5.5,0.5999999999999996,Yes,9.8%,Denver Nuggets,Sacramento Kings
+Corey Kispert,Rebounds,3.1,Over,DraftKings,-135,2.5,0.6000000000000001,Yes,19.4%,Los Angeles Clippers,Washington Wizards
+Lonzo Ball,Points,8.1,Over,BetRivers,-157,7.5,0.5999999999999996,Yes,7.4%,Golden State Warriors,Chicago Bulls
+Andrew Wiggins,Rebounds,5.1,Over,BetRivers,-165,4.5,0.5999999999999996,Yes,11.8%,Golden State Warriors,Chicago Bulls
 Gabe Vincent,Points,6.1,Over,Caesars,100,5.5,0.5999999999999996,Yes,9.8%,Los Angeles Lakers,Boston Celtics
 Gabe Vincent,Points Rebounds Assists,9.1,Over,Caesars,-109,8.5,0.5999999999999996,Yes,6.6%,Los Angeles Lakers,Boston Celtics
-Lonzo Ball,Points,8.1,Over,BetRivers,-143,7.5,0.5999999999999996,Yes,7.4%,Golden State Warriors,Chicago Bulls
-Andrew Wiggins,Rebounds,5.1,Over,FanDuel,-140,4.5,0.5999999999999996,Yes,11.8%,Golden State Warriors,Chicago Bulls
 James Harden,Assists,9.1,Over,DraftKings,-140,8.5,0.5999999999999996,Yes,6.6%,Los Angeles Clippers,Washington Wizards
 Bilal Coulibaly,Points,12.1,Over,FanDuel,104,11.5,0.5999999999999996,Yes,5.0%,Los Angeles Clippers,Washington Wizards
-Derrick Jones,Rebounds,4.1,Over,BetMGM,100,3.5,0.5999999999999996,Yes,14.6%,Los Angeles Clippers,Washington Wizards
-Carlton Carrington,Points Rebounds Assists,15.900000000000002,Under,FanDuel,-120,16.5,0.5999999999999979,Yes,3.8%,Los Angeles Clippers,Washington Wizards
-Kentavious Caldwell-Pope,Assists,2.0,Under,FanDuel,-158,2.5,0.5,Yes,25.0%,Orlando Magic,Portland Trail Blazers
-Davion Mitchell,Points,6.0,Under,FanDuel,102,6.5,0.5,Yes,8.3%,Atlanta Hawks,Toronto Raptors
-Jakob Poeltl,Points,13.0,Over,BetRivers,-155,12.5,0.5,Yes,3.8%,Atlanta Hawks,Toronto Raptors
-Shai Gilgeous-Alexander,Points,34.0,Over,BetRivers,120,33.5,0.5,Yes,1.5%,Oklahoma City Thunder,Dallas Mavericks
-Spencer Dinwiddie,Points,11.0,Under,BetRivers,107,11.5,0.5,Yes,4.5%,Oklahoma City Thunder,Dallas Mavericks
-Spencer Dinwiddie,Rebounds,3.0,Under,BetMGM,-165,3.5,0.5,Yes,16.7%,Oklahoma City Thunder,Dallas Mavericks
-Alex Caruso,Points,6.0,Under,FanDuel,-106,6.5,0.5,Yes,8.3%,Oklahoma City Thunder,Dallas Mavericks
-Alex Caruso,Points Rebounds Assists,11.0,Under,DraftKings,-115,11.5,0.5,Yes,4.5%,Oklahoma City Thunder,Dallas Mavericks
-Giannis Antetokounmpo,Points Rebounds Assists,49.0,Over,BetRivers,-106,48.5,0.5,Yes,1.0%,Milwaukee Bucks,Miami Heat
-Khris Middleton,Points,13.0,Over,Bovada,105,12.5,0.5,Yes,3.8%,Milwaukee Bucks,Miami Heat
-Nikola Jovic,Points,11.0,Under,BetMGM,105,11.5,0.5,Yes,4.5%,Milwaukee Bucks,Miami Heat
-Duncan Robinson,Assists,3.0,Under,BetMGM,-140,3.5,0.5,Yes,16.7%,Milwaukee Bucks,Miami Heat
-Taurean Prince,Rebounds,3.0,Over,FanDuel,-150,2.5,0.5,Yes,16.7%,Milwaukee Bucks,Miami Heat
-Jamal Murray,Assists,6.0,Over,DraftKings,-120,5.5,0.5,Yes,8.3%,Denver Nuggets,Sacramento Kings
-Russell Westbrook,Assists,6.0,Under,BetRivers,-120,6.5,0.5,Yes,8.3%,Denver Nuggets,Sacramento Kings
-Michael Porter Jr,Points,16.0,Over,DraftKings,-125,15.5,0.5,Yes,3.1%,Denver Nuggets,Sacramento Kings
-Michael Porter Jr,Points Rebounds Assists,24.0,Over,BetOnline.ag,-103,23.5,0.5,Yes,2.1%,Denver Nuggets,Sacramento Kings
-Keegan Murray,Points,12.0,Over,DraftKings,-105,11.5,0.5,Yes,4.2%,Denver Nuggets,Sacramento Kings
-Keon Ellis,Assists,1.0,Over,BetMGM,-190,0.5,0.5,Yes,50.0%,Denver Nuggets,Sacramento Kings
-Trey Lyles,Assists,1.0,Over,BetMGM,-175,0.5,0.5,Yes,50.0%,Denver Nuggets,Sacramento Kings
-Jaylen Brown,Rebounds,6.0,Over,FanDuel,122,5.5,0.5,Yes,8.3%,Los Angeles Lakers,Boston Celtics
+Derrick Jones,Rebounds,4.1,Over,FanDuel,-114,3.5,0.5999999999999996,Yes,14.6%,Los Angeles Clippers,Washington Wizards
+Carlton Carrington,Points Rebounds Assists,15.900000000000002,Under,DraftKings,-125,16.5,0.5999999999999979,Yes,3.8%,Los Angeles Clippers,Washington Wizards
+Zach LaVine,Rebounds,5.0,Over,FanDuel,-106,4.5,0.5,Yes,10.0%,Golden State Warriors,Chicago Bulls
+Ayo Dosunmu,Assists,5.0,Over,DraftKings,124,4.5,0.5,Yes,10.0%,Golden State Warriors,Chicago Bulls
+Ayo Dosunmu,Points Rebounds Assists,19.0,Over,FanDuel,-111,18.5,0.5,Yes,2.6%,Golden State Warriors,Chicago Bulls
+Patrick Williams,Rebounds,3.0,Under,DraftKings,-120,3.5,0.5,Yes,16.7%,Golden State Warriors,Chicago Bulls
+Patrick Williams,Points Rebounds Assists,14.0,Under,BetOnline.ag,-120,14.5,0.5,Yes,3.6%,Golden State Warriors,Chicago Bulls
+Moses Moody,Points,9.0,Under,FanDuel,-110,9.5,0.5,Yes,5.6%,Golden State Warriors,Chicago Bulls
+Jaylen Brown,Rebounds,6.0,Over,FanDuel,120,5.5,0.5,Yes,8.3%,Los Angeles Lakers,Boston Celtics
 Jaylen Brown,Assists,5.0,Over,FanDuel,114,4.5,0.5,Yes,10.0%,Los Angeles Lakers,Boston Celtics
 LeBron James,Rebounds,7.0,Over,FanDuel,-134,6.5,0.5,Yes,7.1%,Los Angeles Lakers,Boston Celtics
-Jayson Tatum,Assists,6.0,Over,FanDuel,126,5.5,0.5,Yes,8.3%,Los Angeles Lakers,Boston Celtics
-Max Christie,Points,9.0,Over,BetRivers,-152,8.5,0.5,Yes,5.6%,Los Angeles Lakers,Boston Celtics
-Ayo Dosunmu,Assists,5.0,Over,DraftKings,100,4.5,0.5,Yes,10.0%,Golden State Warriors,Chicago Bulls
-Zach LaVine,Rebounds,5.0,Over,FanDuel,-106,4.5,0.5,Yes,10.0%,Golden State Warriors,Chicago Bulls
-Patrick Williams,Rebounds,3.0,Under,DraftKings,-120,3.5,0.5,Yes,16.7%,Golden State Warriors,Chicago Bulls
-Patrick Williams,Points Rebounds Assists,14.0,Under,DraftKings,-115,14.5,0.5,Yes,3.6%,Golden State Warriors,Chicago Bulls
+Jayson Tatum,Assists,6.0,Over,BetMGM,125,5.5,0.5,Yes,8.3%,Los Angeles Lakers,Boston Celtics
+Max Christie,Points,9.0,Over,DraftKings,-135,8.5,0.5,Yes,5.6%,Los Angeles Lakers,Boston Celtics
+Kevin Porter Jr.,Rebounds,3.0,Over,DraftKings,-145,2.5,0.5,Yes,16.7%,Los Angeles Clippers,Washington Wizards
 Bilal Coulibaly,Points Rebounds Assists,20.0,Over,BetOnline.ag,110,19.5,0.5,Yes,2.5%,Los Angeles Clippers,Washington Wizards
-Norman Powell,Assists,2.0,Over,BetMGM,-140,1.5,0.5,Yes,25.0%,Los Angeles Clippers,Washington Wizards
-Kevin Porter Jr.,Rebounds,3.0,Over,BetOnline.ag,-161,2.5,0.5,Yes,16.7%,Los Angeles Clippers,Washington Wizards
-Toumani Camara,Points Rebounds Assists,16.900000000000002,Over,BetMGM,100,16.5,0.40000000000000213,Yes,2.4%,Orlando Magic,Portland Trail Blazers
-Tristan da Silva,Points,6.9,Over,BetOnline.ag,-130,6.5,0.40000000000000036,Yes,5.8%,Orlando Magic,Portland Trail Blazers
-Scottie Barnes,Assists,6.9,Over,FanDuel,-122,6.5,0.40000000000000036,Yes,5.8%,Atlanta Hawks,Toronto Raptors
-Jakob Poeltl,Rebounds,10.1,Under,BetRivers,-122,10.5,0.40000000000000036,Yes,4.0%,Atlanta Hawks,Toronto Raptors
-Shai Gilgeous-Alexander,Rebounds,5.1,Under,BetMGM,-110,5.5,0.40000000000000036,Yes,7.8%,Oklahoma City Thunder,Dallas Mavericks
-Tyler Herro,Rebounds,5.9,Over,BetRivers,118,5.5,0.40000000000000036,Yes,6.8%,Milwaukee Bucks,Miami Heat
-Terry Rozier,Points,11.9,Over,DraftKings,-120,11.5,0.40000000000000036,Yes,3.4%,Milwaukee Bucks,Miami Heat
-Brook Lopez,Rebounds,4.9,Over,FanDuel,-148,4.5,0.40000000000000036,Yes,8.2%,Milwaukee Bucks,Miami Heat
-Jalen Smith,Rebounds,4.9,Over,DraftKings,-140,4.5,0.40000000000000036,Yes,8.2%,Golden State Warriors,Chicago Bulls
-James Harden,Rebounds,5.1,Under,DraftKings,-120,5.5,0.40000000000000036,Yes,7.8%,Los Angeles Clippers,Washington Wizards
-Kyle Kuzma,Rebounds,5.9,Over,BetRivers,-115,5.5,0.40000000000000036,Yes,6.8%,Los Angeles Clippers,Washington Wizards
-Kevin Porter Jr.,Points,9.9,Over,Caesars,-103,9.5,0.40000000000000036,Yes,4.0%,Los Angeles Clippers,Washington Wizards
-Bogdan Bogdanovic,Rebounds,2.1,Under,BetMGM,-118,2.5,0.3999999999999999,Yes,19.0%,Atlanta Hawks,Toronto Raptors
-Peyton Watson,Rebounds,2.9,Over,BetOnline.ag,-159,2.5,0.3999999999999999,Yes,13.8%,Denver Nuggets,Sacramento Kings
-Lonzo Ball,Assists,3.9,Over,BetOnline.ag,-156,3.5,0.3999999999999999,Yes,10.3%,Golden State Warriors,Chicago Bulls
+Norman Powell,Assists,2.0,Over,BetMGM,-145,1.5,0.5,Yes,25.0%,Los Angeles Clippers,Washington Wizards
+Jalen Smith,Rebounds,4.9,Over,DraftKings,-135,4.5,0.40000000000000036,Yes,8.2%,Golden State Warriors,Chicago Bulls
+James Harden,Rebounds,5.1,Under,DraftKings,-130,5.5,0.40000000000000036,Yes,7.8%,Los Angeles Clippers,Washington Wizards
+Kevin Porter Jr.,Points,9.9,Over,DraftKings,100,9.5,0.40000000000000036,Yes,4.0%,Los Angeles Clippers,Washington Wizards
+Kyle Kuzma,Rebounds,5.9,Over,FanDuel,-118,5.5,0.40000000000000036,Yes,6.8%,Los Angeles Clippers,Washington Wizards
+Sam Hauser,Assists,0.9,Over,Caesars,-154,0.5,0.4,Yes,44.4%,Los Angeles Lakers,Boston Celtics
+Dennis Schroder,Rebounds,2.1,Under,Caesars,-148,2.5,0.3999999999999999,Yes,19.0%,Golden State Warriors,Chicago Bulls
+Lonzo Ball,Assists,3.9,Over,DraftKings,-125,3.5,0.3999999999999999,Yes,10.3%,Golden State Warriors,Chicago Bulls
+Andrew Wiggins,Assists,2.1,Under,Caesars,100,2.5,0.3999999999999999,Yes,19.0%,Golden State Warriors,Chicago Bulls
 Jordan Poole,Rebounds,3.9,Over,FanDuel,142,3.5,0.3999999999999999,Yes,10.3%,Los Angeles Clippers,Washington Wizards
-Damian Lillard,Points Rebounds Assists,35.9,Over,BetOnline.ag,-105,35.5,0.3999999999999986,Yes,1.1%,Milwaukee Bucks,Miami Heat
-Giannis Antetokounmpo,Points,30.9,Over,BetRivers,108,30.5,0.3999999999999986,Yes,1.3%,Milwaukee Bucks,Miami Heat
-Nikola Vucevic,Points,20.9,Over,BetRivers,107,20.5,0.3999999999999986,Yes,1.9%,Golden State Warriors,Chicago Bulls
-Andrew Wiggins,Points,18.9,Over,BetRivers,102,18.5,0.3999999999999986,Yes,2.1%,Golden State Warriors,Chicago Bulls
-Jordan Poole,Points,20.9,Over,BetRivers,106,20.5,0.3999999999999986,Yes,1.9%,Los Angeles Clippers,Washington Wizards
-Zach LaVine,Points Rebounds Assists,33.800000000000004,Over,DraftKings,-120,33.5,0.30000000000000426,Yes,0.9%,Golden State Warriors,Chicago Bulls
-Jerami Grant,Points Rebounds Assists,19.8,Over,Bovada,105,19.5,0.3000000000000007,Yes,1.5%,Orlando Magic,Portland Trail Blazers
-De'Andre Hunter,Points,17.2,Under,BetRivers,112,17.5,0.3000000000000007,Yes,1.7%,Atlanta Hawks,Toronto Raptors
-Gradey Dick,Points,14.8,Over,BetMGM,-105,14.5,0.3000000000000007,Yes,2.0%,Atlanta Hawks,Toronto Raptors
-Bobby Portis,Points,11.8,Over,BetRivers,110,11.5,0.3000000000000007,Yes,2.5%,Milwaukee Bucks,Miami Heat
-Nikola Jokic,Assists,9.8,Over,FanDuel,-110,9.5,0.3000000000000007,Yes,3.1%,Denver Nuggets,Sacramento Kings
-Russell Westbrook,Points Rebounds Assists,23.2,Under,DraftKings,-105,23.5,0.3000000000000007,Yes,1.3%,Denver Nuggets,Sacramento Kings
-Ivica Zubac,Points,14.8,Over,DraftKings,-105,14.5,0.3000000000000007,Yes,2.0%,Los Angeles Clippers,Washington Wizards
-Ivica Zubac,Points Rebounds Assists,30.2,Under,FanDuel,-113,30.5,0.3000000000000007,Yes,1.0%,Los Angeles Clippers,Washington Wizards
-Tristan da Silva,Assists,1.8,Over,BetMGM,120,1.5,0.30000000000000004,Yes,16.7%,Orlando Magic,Portland Trail Blazers
-Davion Mitchell,Rebounds,1.8,Over,BetMGM,-165,1.5,0.30000000000000004,Yes,16.7%,Atlanta Hawks,Toronto Raptors
-De'Andre Hunter,Assists,1.8,Over,BetMGM,105,1.5,0.30000000000000004,Yes,16.7%,Atlanta Hawks,Toronto Raptors
-Bogdan Bogdanovic,Assists,1.8,Over,BetMGM,-140,1.5,0.30000000000000004,Yes,16.7%,Atlanta Hawks,Toronto Raptors
-Taurean Prince,Assists,1.8,Over,BetMGM,135,1.5,0.30000000000000004,Yes,16.7%,Milwaukee Bucks,Miami Heat
-Andre Jackson Jr,Assists,1.2,Under,BetMGM,-210,1.5,0.30000000000000004,Yes,25.0%,Milwaukee Bucks,Miami Heat
-Peyton Watson,Assists,1.2,Under,Caesars,-154,1.5,0.30000000000000004,Yes,25.0%,Denver Nuggets,Sacramento Kings
+Nicolas Batum,Assists,1.1,Under,Caesars,-174,1.5,0.3999999999999999,Yes,36.4%,Los Angeles Clippers,Washington Wizards
+Nikola Vucevic,Points,20.9,Over,BetRivers,102,20.5,0.3999999999999986,Yes,1.9%,Golden State Warriors,Chicago Bulls
+Andrew Wiggins,Points,18.9,Over,FanDuel,-104,18.5,0.3999999999999986,Yes,2.1%,Golden State Warriors,Chicago Bulls
+Andrew Wiggins,Points Rebounds Assists,26.1,Under,BetOnline.ag,-120,26.5,0.3999999999999986,Yes,1.5%,Golden State Warriors,Chicago Bulls
+Jordan Poole,Points,20.9,Over,BetRivers,104,20.5,0.3999999999999986,Yes,1.9%,Los Angeles Clippers,Washington Wizards
+Zach LaVine,Points Rebounds Assists,33.800000000000004,Over,BetRivers,-120,33.5,0.30000000000000426,Yes,0.9%,Golden State Warriors,Chicago Bulls
+Trayce Jackson-Davis,Rebounds,8.2,Under,FanDuel,-110,8.5,0.3000000000000007,Yes,3.7%,Golden State Warriors,Chicago Bulls
+Ivica Zubac,Points,14.8,Over,BetMGM,100,14.5,0.3000000000000007,Yes,2.0%,Los Angeles Clippers,Washington Wizards
+Ivica Zubac,Points Rebounds Assists,30.2,Under,FanDuel,-111,30.5,0.3000000000000007,Yes,1.0%,Los Angeles Clippers,Washington Wizards
 Gabe Vincent,Rebounds,1.2,Under,Caesars,-160,1.5,0.30000000000000004,Yes,25.0%,Los Angeles Lakers,Boston Celtics
 Gabe Vincent,Assists,1.8,Over,Caesars,-117,1.5,0.30000000000000004,Yes,16.7%,Los Angeles Lakers,Boston Celtics
-Paolo Banchero,Assists,4.2,Under,Caesars,112,4.5,0.2999999999999998,Yes,7.1%,Orlando Magic,Portland Trail Blazers
-Anfernee Simons,Rebounds,2.8,Over,DraftKings,-160,2.5,0.2999999999999998,Yes,10.7%,Orlando Magic,Portland Trail Blazers
-Anthony Black,Assists,3.8,Over,BetMGM,-125,3.5,0.2999999999999998,Yes,7.9%,Orlando Magic,Portland Trail Blazers
-De'Andre Hunter,Rebounds,3.2,Under,DraftKings,120,3.5,0.2999999999999998,Yes,9.4%,Atlanta Hawks,Toronto Raptors
-Jakob Poeltl,Assists,2.2,Under,Caesars,-133,2.5,0.2999999999999998,Yes,13.6%,Atlanta Hawks,Toronto Raptors
-Jalen Williams,Rebounds,5.2,Under,BetMGM,100,5.5,0.2999999999999998,Yes,5.8%,Oklahoma City Thunder,Dallas Mavericks
-Spencer Dinwiddie,Assists,3.2,Under,BetOnline.ag,120,3.5,0.2999999999999998,Yes,9.4%,Oklahoma City Thunder,Dallas Mavericks
-Aaron Wiggins,Rebounds,3.8,Over,BetOnline.ag,-161,3.5,0.2999999999999998,Yes,7.9%,Oklahoma City Thunder,Dallas Mavericks
-Giannis Antetokounmpo,Assists,5.8,Over,DraftKings,-125,5.5,0.2999999999999998,Yes,5.2%,Milwaukee Bucks,Miami Heat
-Andre Jackson Jr,Points,3.8,Over,Caesars,-113,3.5,0.2999999999999998,Yes,7.9%,Milwaukee Bucks,Miami Heat
-Aaron Gordon,Assists,2.2,Under,Caesars,-184,2.5,0.2999999999999998,Yes,13.6%,Denver Nuggets,Sacramento Kings
-Peyton Watson,Points,7.2,Under,BetOnline.ag,-114,7.5,0.2999999999999998,Yes,4.2%,Denver Nuggets,Sacramento Kings
+Jaxson Hayes,Assists,0.8,Over,BetMGM,105,0.5,0.30000000000000004,Yes,37.5%,Los Angeles Lakers,Boston Celtics
+Josh Giddey,Rebounds,7.8,Over,FanDuel,104,7.5,0.2999999999999998,Yes,3.8%,Golden State Warriors,Chicago Bulls
+Stephen Curry,Assists,6.8,Over,FanDuel,-106,6.5,0.2999999999999998,Yes,4.4%,Golden State Warriors,Chicago Bulls
 Jrue Holiday,Rebounds,4.8,Over,FanDuel,132,4.5,0.2999999999999998,Yes,6.2%,Los Angeles Lakers,Boston Celtics
-Josh Giddey,Rebounds,7.8,Over,DraftKings,-110,7.5,0.2999999999999998,Yes,3.8%,Golden State Warriors,Chicago Bulls
-Stephen Curry,Assists,6.8,Over,DraftKings,-125,6.5,0.2999999999999998,Yes,4.4%,Golden State Warriors,Chicago Bulls
+Kevin Porter Jr.,Assists,3.8,Over,FanDuel,-106,3.5,0.2999999999999998,Yes,7.9%,Los Angeles Clippers,Washington Wizards
 Kyshawn George,Rebounds,3.2,Under,FanDuel,-102,3.5,0.2999999999999998,Yes,9.4%,Los Angeles Clippers,Washington Wizards
-Amir Coffey,Rebounds,2.8,Over,DraftKings,-145,2.5,0.2999999999999998,Yes,10.7%,Los Angeles Clippers,Washington Wizards
-Kevin Porter Jr.,Assists,3.8,Over,Bovada,-105,3.5,0.2999999999999998,Yes,7.9%,Los Angeles Clippers,Washington Wizards
+Amir Coffey,Rebounds,2.8,Over,BetOnline.ag,-149,2.5,0.2999999999999998,Yes,10.7%,Los Angeles Clippers,Washington Wizards
 Jayson Tatum,Points Rebounds Assists,39.8,Over,Bovada,105,39.5,0.29999999999999716,Yes,0.8%,Los Angeles Lakers,Boston Celtics
-Andre Jackson Jr,Points Rebounds Assists,8.299999999999999,Under,Caesars,-137,8.5,0.20000000000000107,Yes,2.4%,Milwaukee Bucks,Miami Heat
-Peyton Watson,Points Rebounds Assists,11.299999999999999,Under,Caesars,100,11.5,0.20000000000000107,Yes,1.8%,Denver Nuggets,Sacramento Kings
-Anfernee Simons,Assists,4.3,Under,Bovada,-135,4.5,0.20000000000000018,Yes,4.7%,Orlando Magic,Portland Trail Blazers
-Dyson Daniels,Assists,3.3,Under,BetRivers,-113,3.5,0.20000000000000018,Yes,6.1%,Atlanta Hawks,Toronto Raptors
-Gradey Dick,Rebounds,2.7,Over,BetOnline.ag,-172,2.5,0.20000000000000018,Yes,7.4%,Atlanta Hawks,Toronto Raptors
-Kyrie Irving,Rebounds,4.7,Over,FanDuel,116,4.5,0.20000000000000018,Yes,4.3%,Oklahoma City Thunder,Dallas Mavericks
-Jalen Williams,Assists,4.7,Over,Bovada,-115,4.5,0.20000000000000018,Yes,4.3%,Oklahoma City Thunder,Dallas Mavericks
-Cason Wallace,Assists,2.7,Over,DraftKings,-125,2.5,0.20000000000000018,Yes,7.4%,Oklahoma City Thunder,Dallas Mavericks
-Damian Lillard,Rebounds,4.3,Under,BetMGM,-140,4.5,0.20000000000000018,Yes,4.7%,Milwaukee Bucks,Miami Heat
-Khris Middleton,Rebounds,3.3,Under,FanDuel,108,3.5,0.20000000000000018,Yes,6.1%,Milwaukee Bucks,Miami Heat
-Duncan Robinson,Rebounds,2.7,Over,BetMGM,100,2.5,0.20000000000000018,Yes,7.4%,Milwaukee Bucks,Miami Heat
-Andre Jackson Jr,Rebounds,3.3,Under,Caesars,-174,3.5,0.20000000000000018,Yes,6.1%,Milwaukee Bucks,Miami Heat
-DeMar DeRozan,Assists,3.3,Under,FanDuel,-105,3.5,0.20000000000000018,Yes,6.1%,Denver Nuggets,Sacramento Kings
-Russell Westbrook,Rebounds,4.7,Over,BetMGM,-140,4.5,0.20000000000000018,Yes,4.3%,Denver Nuggets,Sacramento Kings
-Malik Monk,Rebounds,3.7,Over,BetMGM,115,3.5,0.20000000000000018,Yes,5.4%,Denver Nuggets,Sacramento Kings
-Malik Monk,Assists,6.7,Over,FanDuel,126,6.5,0.20000000000000018,Yes,3.0%,Denver Nuggets,Sacramento Kings
-Jrue Holiday,Assists,3.3,Under,BetMGM,-118,3.5,0.20000000000000018,Yes,6.1%,Los Angeles Lakers,Boston Celtics
-Payton Pritchard,Assists,3.7,Over,DraftKings,110,3.5,0.20000000000000018,Yes,5.4%,Los Angeles Lakers,Boston Celtics
-Zach LaVine,Assists,4.7,Over,FanDuel,116,4.5,0.20000000000000018,Yes,4.3%,Golden State Warriors,Chicago Bulls
-Nikola Vucevic,Assists,3.7,Over,BetMGM,130,3.5,0.20000000000000018,Yes,5.4%,Golden State Warriors,Chicago Bulls
-Coby White,Assists,4.7,Over,Bovada,110,4.5,0.20000000000000018,Yes,4.3%,Golden State Warriors,Chicago Bulls
-Carlton Carrington,Assists,3.3,Under,FanDuel,100,3.5,0.20000000000000018,Yes,6.1%,Los Angeles Clippers,Washington Wizards
+Stephen Curry,Rebounds,4.3,Under,BetRivers,123,4.5,0.20000000000000018,Yes,4.7%,Golden State Warriors,Chicago Bulls
+Zach LaVine,Assists,4.7,Over,BetRivers,120,4.5,0.20000000000000018,Yes,4.3%,Golden State Warriors,Chicago Bulls
+Nikola Vucevic,Assists,3.7,Over,Bovada,130,3.5,0.20000000000000018,Yes,5.4%,Golden State Warriors,Chicago Bulls
+Trayce Jackson-Davis,Assists,2.3,Under,BetMGM,105,2.5,0.20000000000000018,Yes,8.7%,Golden State Warriors,Chicago Bulls
+Jrue Holiday,Assists,3.3,Under,Caesars,-117,3.5,0.20000000000000018,Yes,6.1%,Los Angeles Lakers,Boston Celtics
+Payton Pritchard,Assists,3.7,Over,DraftKings,105,3.5,0.20000000000000018,Yes,5.4%,Los Angeles Lakers,Boston Celtics
+Carlton Carrington,Assists,3.3,Under,FanDuel,102,3.5,0.20000000000000018,Yes,6.1%,Los Angeles Clippers,Washington Wizards
 Bilal Coulibaly,Assists,3.3,Under,BetMGM,-145,3.5,0.20000000000000018,Yes,6.1%,Los Angeles Clippers,Washington Wizards
-Ivica Zubac,Assists,2.7,Over,DraftKings,105,2.5,0.20000000000000018,Yes,7.4%,Los Angeles Clippers,Washington Wizards
-Jerami Grant,Assists,1.7,Over,Caesars,-174,1.5,0.19999999999999996,Yes,11.8%,Orlando Magic,Portland Trail Blazers
-Caleb Houstan,Assists,0.7,Over,Caesars,-142,0.5,0.19999999999999996,Yes,28.6%,Orlando Magic,Portland Trail Blazers
-Michael Porter Jr,Assists,1.7,Over,BetMGM,110,1.5,0.19999999999999996,Yes,11.8%,Denver Nuggets,Sacramento Kings
-Julian Strawther,Assists,1.7,Over,Caesars,116,1.5,0.19999999999999996,Yes,11.8%,Denver Nuggets,Sacramento Kings
+Ivica Zubac,Assists,2.7,Over,DraftKings,110,2.5,0.20000000000000018,Yes,7.4%,Los Angeles Clippers,Washington Wizards
+Patrick Williams,Assists,1.7,Over,BetMGM,-118,1.5,0.19999999999999996,Yes,11.8%,Golden State Warriors,Chicago Bulls
+Gary Payton II,Assists,1.3,Under,DraftKings,-130,1.5,0.19999999999999996,Yes,15.4%,Golden State Warriors,Chicago Bulls
 Max Christie,Assists,1.3,Under,BetMGM,-115,1.5,0.19999999999999996,Yes,15.4%,Los Angeles Lakers,Boston Celtics
-Patrick Williams,Assists,1.7,Over,BetMGM,-110,1.5,0.19999999999999996,Yes,11.8%,Golden State Warriors,Chicago Bulls
+Al Horford,Assists,1.7,Over,BetMGM,100,1.5,0.19999999999999996,Yes,11.8%,Los Angeles Lakers,Boston Celtics
 Corey Kispert,Assists,1.7,Over,BetMGM,-110,1.5,0.19999999999999996,Yes,11.8%,Los Angeles Clippers,Washington Wizards
 Derrick Jones,Assists,0.7,Over,Caesars,-234,0.5,0.19999999999999996,Yes,28.6%,Los Angeles Clippers,Washington Wizards
-Anfernee Simons,Points,16.7,Over,BetRivers,-155,16.5,0.1999999999999993,Yes,1.2%,Orlando Magic,Portland Trail Blazers
-Anthony Black,Points,11.7,Over,Bovada,-115,11.5,0.1999999999999993,Yes,1.7%,Orlando Magic,Portland Trail Blazers
-Deni Avdija,Points,15.7,Over,BetRivers,110,15.5,0.1999999999999993,Yes,1.3%,Orlando Magic,Portland Trail Blazers
-Jonathan Isaac,Points Rebounds Assists,12.7,Over,BetOnline.ag,-105,12.5,0.1999999999999993,Yes,1.6%,Orlando Magic,Portland Trail Blazers
-Trae Young,Points,24.7,Over,BetOnline.ag,-108,24.5,0.1999999999999993,Yes,0.8%,Atlanta Hawks,Toronto Raptors
-Gradey Dick,Points Rebounds Assists,19.7,Over,Bovada,100,19.5,0.1999999999999993,Yes,1.0%,Atlanta Hawks,Toronto Raptors
-Jalen Williams,Points,20.7,Over,DraftKings,-120,20.5,0.1999999999999993,Yes,1.0%,Oklahoma City Thunder,Dallas Mavericks
-Luguentz Dort,Points Rebounds Assists,16.3,Under,Bovada,-110,16.5,0.1999999999999993,Yes,1.2%,Oklahoma City Thunder,Dallas Mavericks
-Giannis Antetokounmpo,Rebounds,12.3,Under,DraftKings,-110,12.5,0.1999999999999993,Yes,1.6%,Milwaukee Bucks,Miami Heat
-Duncan Robinson,Points Rebounds Assists,17.3,Under,DraftKings,-105,17.5,0.1999999999999993,Yes,1.2%,Milwaukee Bucks,Miami Heat
-Derrick White,Points,14.7,Over,BetRivers,120,14.5,0.1999999999999993,Yes,1.4%,Los Angeles Lakers,Boston Celtics
-Kevin Porter Jr.,Points Rebounds Assists,16.7,Over,Bovada,100,16.5,0.1999999999999993,Yes,1.2%,Los Angeles Clippers,Washington Wizards
-James Harden,Points Rebounds Assists,35.300000000000004,Under,Bovada,-105,35.5,0.19999999999999574,Yes,0.6%,Los Angeles Clippers,Washington Wizards
-Khris Middleton,Points Rebounds Assists,21.6,Over,FanDuel,-102,21.5,0.10000000000000142,Yes,0.5%,Milwaukee Bucks,Miami Heat
-Anthony Davis,Points,24.6,Over,BetRivers,-109,24.5,0.10000000000000142,Yes,0.4%,Los Angeles Lakers,Boston Celtics
-Anthony Black,Rebounds,3.4,Under,DraftKings,105,3.5,0.10000000000000009,Yes,2.9%,Orlando Magic,Portland Trail Blazers
-Deni Avdija,Assists,3.6,Over,Bovada,105,3.5,0.10000000000000009,Yes,2.8%,Orlando Magic,Portland Trail Blazers
-Wendell Carter Jr,Assists,2.4,Under,BetMGM,-105,2.5,0.10000000000000009,Yes,4.2%,Orlando Magic,Portland Trail Blazers
-Kentavious Caldwell-Pope,Rebounds,1.6,Over,Caesars,-184,1.5,0.10000000000000009,Yes,6.3%,Orlando Magic,Portland Trail Blazers
-Tristan da Silva,Rebounds,3.6,Over,BetMGM,100,3.5,0.10000000000000009,Yes,2.8%,Orlando Magic,Portland Trail Blazers
-Caleb Houstan,Rebounds,1.6,Over,Caesars,-133,1.5,0.10000000000000009,Yes,6.3%,Orlando Magic,Portland Trail Blazers
-Vit Krejci,Rebounds,2.4,Under,Caesars,126,2.5,0.10000000000000009,Yes,4.2%,Atlanta Hawks,Toronto Raptors
-Vit Krejci,Assists,3.4,Under,BetOnline.ag,-139,3.5,0.10000000000000009,Yes,2.9%,Atlanta Hawks,Toronto Raptors
-Jaylin Williams,Assists,2.4,Under,FanDuel,134,2.5,0.10000000000000009,Yes,4.2%,Oklahoma City Thunder,Dallas Mavericks
-Daniel Gafford,Assists,1.6,Over,Caesars,-174,1.5,0.10000000000000009,Yes,6.3%,Oklahoma City Thunder,Dallas Mavericks
-Bobby Portis,Assists,1.4,Under,Caesars,-129,1.5,0.10000000000000009,Yes,7.1%,Milwaukee Bucks,Miami Heat
+Kevin Porter Jr.,Points Rebounds Assists,16.7,Over,Bovada,110,16.5,0.1999999999999993,Yes,1.2%,Los Angeles Clippers,Washington Wizards
+James Harden,Points Rebounds Assists,35.300000000000004,Under,BetMGM,-105,35.5,0.19999999999999574,Yes,0.6%,Los Angeles Clippers,Washington Wizards
+Anthony Davis,Points,24.6,Over,BetRivers,-103,24.5,0.10000000000000142,Yes,0.4%,Los Angeles Lakers,Boston Celtics
+Ayo Dosunmu,Rebounds,3.6,Over,FanDuel,138,3.5,0.10000000000000009,Yes,2.8%,Golden State Warriors,Chicago Bulls
+Lonzo Ball,Rebounds,3.4,Under,FanDuel,106,3.5,0.10000000000000009,Yes,2.9%,Golden State Warriors,Chicago Bulls
+Moses Moody,Assists,1.4,Under,DraftKings,-145,1.5,0.10000000000000009,Yes,7.1%,Golden State Warriors,Chicago Bulls
 Anthony Davis,Assists,3.4,Under,FanDuel,-128,3.5,0.10000000000000009,Yes,2.9%,Los Angeles Lakers,Boston Celtics
 Payton Pritchard,Rebounds,3.4,Under,BetMGM,-155,3.5,0.10000000000000009,Yes,2.9%,Los Angeles Lakers,Boston Celtics
 Austin Reaves,Rebounds,3.6,Over,BetMGM,-125,3.5,0.10000000000000009,Yes,2.8%,Los Angeles Lakers,Boston Celtics
 Rui Hachimura,Assists,1.4,Under,Caesars,-199,1.5,0.10000000000000009,Yes,7.1%,Los Angeles Lakers,Boston Celtics
-Ayo Dosunmu,Rebounds,3.6,Over,FanDuel,-106,3.5,0.10000000000000009,Yes,2.8%,Golden State Warriors,Chicago Bulls
-Lonzo Ball,Rebounds,3.4,Under,FanDuel,-102,3.5,0.10000000000000009,Yes,2.9%,Golden State Warriors,Chicago Bulls
-Coby White,Rebounds,3.4,Under,Caesars,-154,3.5,0.10000000000000009,Yes,2.9%,Golden State Warriors,Chicago Bulls
+Jaxson Hayes,Rebounds,3.6,Over,Caesars,112,3.5,0.10000000000000009,Yes,2.8%,Los Angeles Lakers,Boston Celtics
 Kawhi Leonard,Assists,1.6,Over,BetMGM,-165,1.5,0.10000000000000009,Yes,6.3%,Los Angeles Clippers,Washington Wizards
 Amir Coffey,Assists,1.4,Under,DraftKings,-154,1.5,0.10000000000000009,Yes,7.1%,Los Angeles Clippers,Washington Wizards
-Paolo Banchero,Rebounds,7.6,Over,FanDuel,108,7.5,0.09999999999999964,Yes,1.3%,Orlando Magic,Portland Trail Blazers
-Jerami Grant,Points,14.6,Over,BetRivers,112,14.5,0.09999999999999964,Yes,0.7%,Orlando Magic,Portland Trail Blazers
-Shai Gilgeous-Alexander,Assists,6.6,Over,BetRivers,112,6.5,0.09999999999999964,Yes,1.5%,Oklahoma City Thunder,Dallas Mavericks
-Jaylin Williams,Points,6.6,Over,BetRivers,-165,6.5,0.09999999999999964,Yes,1.5%,Oklahoma City Thunder,Dallas Mavericks
-P.J. Washington,Points,14.6,Over,BetRivers,100,14.5,0.09999999999999964,Yes,0.7%,Oklahoma City Thunder,Dallas Mavericks
-Damian Lillard,Assists,6.4,Under,Bovada,110,6.5,0.09999999999999964,Yes,1.6%,Milwaukee Bucks,Miami Heat
-Duncan Robinson,Points,11.6,Over,BetMGM,-105,11.5,0.09999999999999964,Yes,0.9%,Milwaukee Bucks,Miami Heat
-Jaime Jaquez Jr,Rebounds,4.6,Over,Caesars,100,4.5,0.09999999999999964,Yes,2.2%,Milwaukee Bucks,Miami Heat
-Austin Reaves,Assists,6.6,Over,FanDuel,104,6.5,0.09999999999999964,Yes,1.5%,Los Angeles Lakers,Boston Celtics
-Jayson Tatum,Rebounds,8.6,Over,FanDuel,118,8.5,0.09999999999999964,Yes,1.2%,Los Angeles Lakers,Boston Celtics
+Nicolas Batum,Rebounds,3.6,Over,Caesars,120,3.5,0.10000000000000009,Yes,2.8%,Los Angeles Clippers,Washington Wizards
+Jalen Smith,Assists,0.6,Over,Caesars,-137,0.5,0.09999999999999998,Yes,16.7%,Golden State Warriors,Chicago Bulls
+Josh Giddey,Assists,6.6,Over,FanDuel,104,6.5,0.09999999999999964,Yes,1.5%,Golden State Warriors,Chicago Bulls
+Ayo Dosunmu,Points,10.4,Under,FanDuel,100,10.5,0.09999999999999964,Yes,1.0%,Golden State Warriors,Chicago Bulls
+Lonzo Ball,Points Rebounds Assists,15.4,Under,DraftKings,-105,15.5,0.09999999999999964,Yes,0.6%,Golden State Warriors,Chicago Bulls
+Gary Payton II,Points,5.6,Over,FanDuel,-106,5.5,0.09999999999999964,Yes,1.8%,Golden State Warriors,Chicago Bulls
+Jalen Smith,Points,7.6,Over,Caesars,-117,7.5,0.09999999999999964,Yes,1.3%,Golden State Warriors,Chicago Bulls
+Austin Reaves,Assists,6.6,Over,DraftKings,110,6.5,0.09999999999999964,Yes,1.5%,Los Angeles Lakers,Boston Celtics
+Jayson Tatum,Rebounds,8.6,Over,FanDuel,112,8.5,0.09999999999999964,Yes,1.2%,Los Angeles Lakers,Boston Celtics
 Kristaps Porzingis,Rebounds,7.6,Over,Bovada,120,7.5,0.09999999999999964,Yes,1.3%,Los Angeles Lakers,Boston Celtics
-Josh Giddey,Assists,6.6,Over,FanDuel,-110,6.5,0.09999999999999964,Yes,1.5%,Golden State Warriors,Chicago Bulls
-Lonzo Ball,Points Rebounds Assists,15.4,Under,FanDuel,100,15.5,0.09999999999999964,Yes,0.6%,Golden State Warriors,Chicago Bulls
-Jalen Smith,Points,7.6,Over,FanDuel,-128,7.5,0.09999999999999964,Yes,1.3%,Golden State Warriors,Chicago Bulls
+Al Horford,Rebounds,4.6,Over,Caesars,120,4.5,0.09999999999999964,Yes,2.2%,Los Angeles Lakers,Boston Celtics
 Bilal Coulibaly,Rebounds,4.6,Over,Caesars,100,4.5,0.09999999999999964,Yes,2.2%,Los Angeles Clippers,Washington Wizards
-Kyrie Irving,Points Rebounds Assists,33.599999999999994,Over,Bovada,105,33.5,0.09999999999999432,Yes,0.3%,Oklahoma City Thunder,Dallas Mavericks
-Scoot Henderson,Rebounds,3.5,N/A,N/A,N/A,N/A,N/A,No,N/A,Orlando Magic,Portland Trail Blazers
-Jerami Grant,Rebounds,3.5,N/A,N/A,N/A,N/A,N/A,No,N/A,Orlando Magic,Portland Trail Blazers
-Jonathan Isaac,Assists,0.5,N/A,N/A,N/A,N/A,N/A,No,N/A,Orlando Magic,Portland Trail Blazers
-Davion Mitchell,Assists,4.5,N/A,N/A,N/A,N/A,N/A,No,N/A,Atlanta Hawks,Toronto Raptors
-Kyrie Irving,Assists,4.5,N/A,N/A,N/A,N/A,N/A,No,N/A,Oklahoma City Thunder,Dallas Mavericks
-Alex Caruso,Assists,2.5,N/A,N/A,N/A,N/A,N/A,No,N/A,Oklahoma City Thunder,Dallas Mavericks
-Bobby Portis,Rebounds,7.5,N/A,N/A,N/A,N/A,N/A,No,N/A,Milwaukee Bucks,Miami Heat
-Gary Trent Jr,Rebounds,2.5,N/A,N/A,N/A,N/A,N/A,No,N/A,Milwaukee Bucks,Miami Heat
-Christian Braun,Assists,1.5,N/A,N/A,N/A,N/A,N/A,No,N/A,Denver Nuggets,Sacramento Kings
-Trey Lyles,Points Rebounds Assists,11.5,N/A,N/A,N/A,N/A,N/A,No,N/A,Denver Nuggets,Sacramento Kings
+Dennis Schroder,Assists,4.5,N/A,N/A,N/A,N/A,N/A,No,N/A,Golden State Warriors,Chicago Bulls
 Derrick White,Assists,3.5,N/A,N/A,N/A,N/A,N/A,No,N/A,Los Angeles Lakers,Boston Celtics
 Kristaps Porzingis,Assists,1.5,N/A,N/A,N/A,N/A,N/A,No,N/A,Los Angeles Lakers,Boston Celtics
 Max Christie,Rebounds,2.5,N/A,N/A,N/A,N/A,N/A,No,N/A,Los Angeles Lakers,Boston Celtics
